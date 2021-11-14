@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = western
+religion = thogca
+primary_culture = sali
+capital = 337
+
+1429.1.1 = {
+	monarch = {
+		name = "Karo"
+		adm = 4
+		dip = 6
+		mil = 5
+	}
+}

@@ -1,2 +1,3 @@
 # Wug
+KAL = "countries/Kalakana.txt"
 WUG = "countries/Wug.txt"

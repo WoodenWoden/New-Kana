@@ -26,3 +26,24 @@ cwitic = {
 		}
 	}
 }
+
+takua = {
+	graphical_culture = westerngfx
+
+	sali = {
+		primary = KAL
+		male_names = {
+			Taro
+			Sanko
+			Pagma
+		}
+		female_names = {
+			Velak
+			Tepka
+		}
+		dynasty_names = {
+			Pakana
+			Sakapan
+		}
+	}
+}
