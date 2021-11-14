@@ -1,1 +1,4 @@
-210 = "Wug"
+210 = "Snam Wug"
+211 = "Pti Wug"
+212 = "Ciphol"
+213 = "Sasab"
