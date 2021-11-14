@@ -18,23 +18,21 @@ monarch_names = {
 leader_names = {
 	Eram
 	Samt
-	Tama
-	Tem
+	Tama Tem
 }
 
 ship_names = {
-	"Eramna"
-	"Nilimna"
-	"Samna"
-	"Tamana"
-	"Temna"
+	Eramna
+	Nilimna
+	Samna
+	Tamana Temna
 }
 
 
 army_names = {
-	"Chone se Pmein" "Chone se Wug" "Chone se $PROVINCE$" 
+	"Chone se Luct" "Chone se Pmein" "Chone se Wug" "Chone se $PROVINCE$" 
 }
 
 fleet_names = {
-	"Stelli se Pmein" "Stelli se Wug" "Stelli se $PROVINCE$"
+	"Stelli se Luct" "Stelli se Pmein" "Stelli se Wug" "Stelli se $PROVINCE$"
 }
