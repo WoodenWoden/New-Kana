@@ -12,28 +12,19 @@ phenic = {
 	flags_with_emblem_percentage = 33 # default == 0
 	flag_emblem_index_range = { 1 57 }
 
-	tmiet = {
+	thogca = {
 		color = { 254 254 204 }
 		icon = 1
 		
 		country = {
-			tolerance_own = 1
-			global_heathen_missionary_strength = 0.01
+			diplomatic_upkeep = 1
+			trade_steering = 0.1
 		}
-		
-		on_convert = {
-			change_religion = tmiet
-			
-			add_country_modifier = {
-				name = "conversion_zeal"
-				duration = 3650
-			}			
-		}
-		
+				
 		heretic = { HERETIC }
 	}
 	
-	harmonized_modifier = harmonized_christian
+	harmonized_modifier = harmonized_thogca
 	
 	crusade_name = HOLY_WAR
 }
