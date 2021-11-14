@@ -1,0 +1,2 @@
+# Wug
+WUG = "countries/Wug.txt"

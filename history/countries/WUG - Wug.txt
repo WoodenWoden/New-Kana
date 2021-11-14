@@ -1,0 +1,7 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = western
+religion = tmiet
+primary_culture = wugan
+capital = 210 # Pmein
