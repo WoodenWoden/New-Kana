@@ -12,6 +12,7 @@ base_manpower = 2
 hre = no
 is_city = yes
 
+discovered_by = polynesian_tech
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
