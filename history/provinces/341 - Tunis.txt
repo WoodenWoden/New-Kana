@@ -2,7 +2,7 @@
 
 capital = "Tunis"
 culture = sali
-religion = thogca
+religion = nagamalu
 trade_goods = grain
 base_tax = 1
 base_production = 1

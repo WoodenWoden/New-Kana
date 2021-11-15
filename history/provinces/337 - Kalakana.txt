@@ -1,10 +1,10 @@
-add_core = KAL
-owner = KAL
-controller = KAL
+add_core = KLA
+owner = KLA
+controller = KLA
 
 capital = "Kalakana"
 culture = sali
-religion = thogca
+religion = nagamalu
 trade_goods = grain
 base_tax = 3
 base_production = 4

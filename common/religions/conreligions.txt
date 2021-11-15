@@ -28,3 +28,41 @@ sigic = {
 	
 	crusade_name = HOLY_WAR
 }
+
+bamakanan = {
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+
+	nagamalu = {
+		color = { 37 242 79 }
+		icon = 23
+		
+		country = {
+			diplomatic_upkeep = 1
+			trade_steering = 0.1
+		}
+		country_as_secondary = {
+			global_tax_modifier = 0.1
+			tolerance_heathen = 2
+		}
+				
+		heretic = { HERETIC }
+		
+		on_convert = {
+			add_prestige = -100
+			add_stability = -1
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		}
+		
+		heretic = { ZEN }
+		
+		uses_karma = yes
+	}
+	
+	harmonized_modifier = harmonized_thogca
+	
+	crusade_name = HOLY_WAR
+}
