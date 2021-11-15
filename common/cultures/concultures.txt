@@ -28,7 +28,7 @@ cwitic = {
 }
 
 takua = {
-	graphical_culture = westerngfx
+	graphical_culture = polynesiangfx
 
 	sali = {
 		primary = KAL
