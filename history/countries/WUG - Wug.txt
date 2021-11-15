@@ -1,15 +1,16 @@
 government = monarchy
 add_government_reform = feudal_monarchy
 mercantilism = 25
-technology_group = western
-religion = thogca
+technology_group = eastern
+religion = nopt
 primary_culture = wugan
 capital = 210 # West Wug
 fixed_capital = 211 # East Wug
+historical_rival = BIS
 
 1429.1.1 = {
 	monarch = {
-		name = "Eram"
+		name = "Elam"
 		adm = 1
 		dip = 2
 		mil = 6

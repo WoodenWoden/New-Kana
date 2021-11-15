@@ -1,10 +1,9 @@
-add_core = WUG
 add_core = BIS
 owner = BIS
 controller = BIS
 
-capital = "Luct"
-culture = wugan
+capital = "Demir"
+culture = bistan
 religion = nopt
 trade_goods = grain
 base_tax = 1

@@ -1,0 +1,45 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 207  51  117 }
+
+revolutionary_colors = { 58 1 0 }
+
+monarch_names = {
+	"Curci" = 100
+	"Dama" = 90
+	"Eram" = 90
+	"Samt" = 80
+	"Dam" = 70
+	
+	"Nilem" = -1
+}
+
+leader_names = {
+	Curci
+	Eram
+	Samt
+	Dam Dama
+}
+
+ship_names = {
+	Curcena
+	Eramna
+	Nilemna
+	Samna
+	Damana Damna
+}
+
+
+army_names = {
+	"Cane se Bist"
+	"Cane se Demir" "Cane se Duslan" "Cane se Satam"
+	"Cane se $PROVINCE$"
+}
+
+fleet_names = {
+	"Delli se Bist"
+	"Delli se Demir" "Delli se Duslan" "Delli se Satam"
+	"Delli se $PROVINCE$"
+}

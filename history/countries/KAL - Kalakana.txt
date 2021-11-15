@@ -3,6 +3,7 @@ add_government_reform = feudal_monarchy
 mercantilism = 25
 technology_group = polynesian_tech
 religion = thogca
+technology_group = western
 primary_culture = sali
 capital = 337
 
