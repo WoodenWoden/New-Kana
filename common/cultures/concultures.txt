@@ -7,13 +7,14 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
-cwitic = {
-	graphical_culture = westerngfx
+cuitic = {
+	graphical_culture = easterngfx
 
 	wugan = {
 		primary = WUG
 		male_names = {
-			Eram
+			Chulchi
+			Elam
 			Samt
 			Tama Tem
 		}
@@ -21,8 +22,31 @@ cwitic = {
 			Nilim
 		}
 		dynasty_names = {
+			"se Luct"
 			"se Pmein"
 			"se Wug"
+		}
+	}
+	
+	bistan = {
+		primary = BIS
+		male_names = {
+			Curci
+			Eram
+			Samt
+			Dam Dama
+		}
+		female_names = {
+			Nilem
+		}
+		dynasty_names = {
+			"se Bist"
+			"se Demir"
+			"se Duslan"
+			"se Gipol"
+			"se Ilid"
+			"se Sasab"
+			"se Satam"
 		}
 	}
 }

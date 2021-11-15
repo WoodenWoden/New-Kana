@@ -4,7 +4,7 @@ controller = WUG
 
 capital = "Pmein"
 culture = wugan
-religion = thogca
+religion = nopt
 trade_goods = grain
 base_tax = 1
 base_production = 1

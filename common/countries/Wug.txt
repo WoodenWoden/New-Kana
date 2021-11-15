@@ -7,21 +7,24 @@ color = { 157  51  167 }
 revolutionary_colors = { 8 1 8 }
 
 monarch_names = {
-	"Eram" = 100
+	"Elam" = 100
 	"Tama" = 100
 	"Samt" = 90
 	"Tem" = 80
+	"Chulchi" = 60
 	
 	"Nilim" = -1
 }
 
 leader_names = {
+	Chulchi
 	Eram
 	Samt
 	Tama Tem
 }
 
 ship_names = {
+	Chulchina
 	Eramna
 	Nilimna
 	Samna
@@ -30,9 +33,15 @@ ship_names = {
 
 
 army_names = {
-	"Chone se Luct" "Chone se Pmein" "Chone se Wug" "Chone se $PROVINCE$" 
+	"Chone se Wug"
+	"Chone se Pmein"
+	"Chone se Luct"
+	"Chone se $PROVINCE$" 
 }
 
 fleet_names = {
-	"Stelli se Luct" "Stelli se Pmein" "Stelli se Wug" "Stelli se $PROVINCE$"
+	"Stelli se Wug"
+	"Stelli se Pmein"
+	"Stelli se Luct"
+	"Stelli se $PROVINCE$"
 }

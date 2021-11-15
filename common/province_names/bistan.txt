@@ -1,0 +1,5 @@
+210 = "Nam Wug"
+211 = "Di Wug"
+212 = "Gipol"
+213 = "Sasab"
+214 = "Ilid"
