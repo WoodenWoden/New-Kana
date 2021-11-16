@@ -6,7 +6,6 @@ religion = nopt
 primary_culture = wugan
 capital = 210 # West Wug
 fixed_capital = 211 # East Wug
-historical_rival = BIS
 
 1429.1.1 = {
 	monarch = {

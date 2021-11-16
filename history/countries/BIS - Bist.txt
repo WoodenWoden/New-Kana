@@ -5,7 +5,6 @@ technology_group = eastern
 religion = nopt
 primary_culture = bistan
 capital = 214 # Ilid
-historical_rival = WUG
 
 1410.1.1 = {
 	monarch = {
