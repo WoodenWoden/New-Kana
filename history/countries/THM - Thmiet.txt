@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = wugan
+
+1426.1.1 = {
+	monarch = {
+		name = "Tama"
+		dynasty = "se Sathem"
+		birth_date = 1426.11.19
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

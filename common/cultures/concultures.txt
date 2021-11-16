@@ -25,6 +25,7 @@ cuitic = {
 			"se Luct"
 			"se Pmein"
 			"se Sasab" "se Sathem"
+			"se Thmiet"
 			"se Wug"
 		}
 	}

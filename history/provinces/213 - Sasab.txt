@@ -1,3 +1,4 @@
+add_core = THM
 add_core = BIS
 owner = BIS
 controller = BIS
