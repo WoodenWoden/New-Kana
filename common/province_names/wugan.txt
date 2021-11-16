@@ -3,3 +3,6 @@
 212 = "Ciphol"
 213 = "Sasab"
 214 = "Ilid"
+215 = "Om"
+216 = "Lwost"
+217 = "Pu"

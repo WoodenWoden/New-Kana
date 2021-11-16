@@ -8,6 +8,7 @@ random_new_world_region = {
 
 cuite_region = {
 	areas = {
+		mon_area
 		south_lachan_area
 	}
 }
