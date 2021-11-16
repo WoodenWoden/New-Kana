@@ -1,5 +1,6 @@
 # Wug
 BIS = "countries/Bist.txt"
 KLA = "countries/Kalakana.txt"
+MAO = "countries/Maloda.txt"
 THM = "countries/Thmiet.txt"
 WUG = "countries/Wug.txt"
