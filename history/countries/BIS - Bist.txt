@@ -7,9 +7,11 @@ primary_culture = bistan
 capital = 214 # Ilid
 historical_rival = WUG
 
-1410.12.11 = {
+1410.1.1 = {
 	monarch = {
 		name = "Curci"
+		dynasty = "se Demir"
+		birth_date = 1410.12.11
 		adm = 2
 		dip = 2
 		mil = 3

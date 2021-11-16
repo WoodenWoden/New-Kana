@@ -34,14 +34,14 @@ ship_names = {
 
 army_names = {
 	"Chone se Wug"
-	"Chone se Pmein"
+	"Chone se Pmein" "Chone se Sathem"
 	"Chone se Luct"
 	"Chone se $PROVINCE$" 
 }
 
 fleet_names = {
 	"Stelli se Wug"
-	"Stelli se Pmein"
+	"Stelli se Pmein" "Stelli se Sathem"
 	"Stelli se Luct"
 	"Stelli se $PROVINCE$"
 }
