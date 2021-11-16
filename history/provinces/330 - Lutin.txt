@@ -1,6 +1,8 @@
-#330 - Trebizond
+add_core = MAO
+owner = MAO
+controller = MAO
 
-capital = "Trapezous"
+capital = "Lutin"
 culture = sali
 religion = nagamalu
 trade_goods = grain

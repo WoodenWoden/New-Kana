@@ -1,6 +1,8 @@
-#331 - Erserum
+add_core = MAO
+owner = MAO
+controller = MAO
 
-capital = "Erzurum"
+capital = "Melekalo"
 culture = sali
 religion = nagamalu
 trade_goods = grain
