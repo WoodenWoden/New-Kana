@@ -1,7 +1,7 @@
 fruit = {
 	color = { 1.00 0.94 0.30 }
 	modifier = {
-		province_warscore_cost = -0.1
+		cb_on_religious_enemies = yes
 	}
 	province = {
 		allowed_num_of_buildings = 1
