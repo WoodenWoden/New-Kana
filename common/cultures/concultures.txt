@@ -24,8 +24,6 @@ cuitic = {
 		dynasty_names = {
 			"se Luct"
 			"se Pmein"
-			"se Sasab"
-			"se Sathem"
 			"se Wug"
 		}
 	}
@@ -47,6 +45,8 @@ cuitic = {
 			"se Duslan"
 			"se Gipol"
 			"se Ilid"
+			"se Sasab"
+			"se Satam"
 		}
 	}
 }
