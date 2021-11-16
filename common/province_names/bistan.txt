@@ -3,3 +3,6 @@
 212 = "Gipol"
 213 = "Sasab"
 214 = "Ilid"
+215 = "Ham"
+216 = "Wost"
+217 = "Bu"

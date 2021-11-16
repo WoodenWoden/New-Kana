@@ -1,6 +1,10 @@
 # A province can only belong to one area!
 
-#Mod (land)
+# Cuite
+
+mon_area = {
+	214 215 216 217
+}
 
 south_lachan_area = {
 	210 211 212 213
@@ -395,7 +399,7 @@ north_brabant_area = { #3
 ########################################
 
 aragon_area = { #4
-	214 2990 4557
+	2990 4557
 }
 
 catalonia_area = { #5
@@ -416,7 +420,7 @@ upper_andalucia_area = { #4
 
 castille_area = { #5
 	color = { 58 58 207 }
-	215 217 2755 4551 4789
+	2755 4551 4789
 }
 
 toledo_area = { #5
@@ -441,7 +445,7 @@ basque_country = { #3
 
 leon_area = { #3
 	color = { 243 235 28 }
-	208 216 4553 
+	208 4553 
 }
 
 extremadura_area = {

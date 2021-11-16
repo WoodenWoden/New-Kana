@@ -24,6 +24,7 @@ cuitic = {
 		dynasty_names = {
 			"se Luct"
 			"se Pmein"
+			"se Sasab" "se Sathem"
 			"se Wug"
 		}
 	}
@@ -40,13 +41,14 @@ cuitic = {
 			Nilem
 		}
 		dynasty_names = {
-			"se Bist"
-			"se Demir"
-			"se Duslan"
-			"se Gipol"
+			"se Bist" "se Bu"
+			"se Demir" "se Duslan"
+			"se Gipol" "se Gugo"
+			"se Ham"
 			"se Ilid"
-			"se Sasab"
-			"se Satam"
+			"se Rainon"
+			"se Seod"
+			"se Wost"
 		}
 	}
 }
