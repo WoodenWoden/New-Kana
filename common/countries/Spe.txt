@@ -17,8 +17,8 @@ monarch_names = {
 	"Lebt" = 80
 	"Dem" = 70
 	
-	"Nelim" = -1
-	"Rasalo" = -1
+	"Nelim" = -100
+	"Rasalo" = -100
 }
 
 leader_names = {

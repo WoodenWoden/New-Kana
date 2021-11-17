@@ -17,8 +17,8 @@ monarch_names = {
 	"Chulchi" = 50
 	"Miti" = 40
 	
-	"Laesalu" = -1
-	"Nilim" = -1
+	"Laesalu" = -100
+	"Nilim" = -100
 }
 
 leader_names = {

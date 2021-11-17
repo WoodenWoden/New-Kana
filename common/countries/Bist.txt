@@ -17,8 +17,8 @@ monarch_names = {
 	"Wonan" = 70
 	"Dam" = 60
 	
-	"Nilem" = -1
-	"Raesalu" = -1
+	"Nilem" = -100
+	"Raesalu" = -100
 }
 
 leader_names = {
