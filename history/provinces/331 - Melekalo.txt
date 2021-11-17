@@ -5,10 +5,10 @@ controller = MAO
 capital = "Melekalo"
 culture = sali
 religion = nagamalu
-trade_goods = grain
+trade_goods = livestock
 base_tax = 1
 base_production = 1
-base_manpower = 1
+base_manpower = 2
 hre = no
 is_city = yes
 
