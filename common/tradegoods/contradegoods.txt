@@ -9,30 +9,23 @@ fruit = {
 	chance = {
 		factor = 25
 		modifier = {
-			factor = 0
-			area = newfoundland_area
-		}
-		modifier = {
-			factor = 0
-			NOT = { has_terrain = jungle }
-			NOT = { has_climate = tropical }
-			NOT = { province_id = 1240 }
-		}
-		modifier = {
-			factor = 1.5
-			area = amazon_area
-		}
-		modifier = {
-			factor = 0.5
-			region = malaya_region
-			region = moluccas_region
-			region = indonesia_region
-		}
-		modifier = {
 			factor = 2.0
 			FROM = {
 				has_country_flag = encourage_cash_crops_flag
 			}
 		}
+	}
+}
+
+adamantium = {
+	color = { 1.00 0.30 0.05 }
+	modifier = {
+		mil_tech_cost_modifier = -0.05
+	}
+	province = {
+		accept_vassalization_reasons = 10
+	}
+	chance = {
+		factor = 0
 	}
 }

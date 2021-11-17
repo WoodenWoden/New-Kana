@@ -15,9 +15,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_province_institutions_button"
 		texturefile = "gfx/interface/institutions//province_institutions_button.dds"
-	}	
-
-
+	}
 	
 	spriteType = {
 		name = "GFX_province_view_fort_nr_bg"
@@ -159,10 +157,12 @@ spriteTypes = {
 		name = "GFX_client_select_bg"
 		texturefile = "gfx/interface/client_select_bg.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_client_create_bg"
 		texturefile = "gfx/interface/client_create_bg.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_client_create_shield_bg"
 		texturefile = "gfx/interface/client_create_shield_bg.dds"
@@ -242,7 +242,7 @@ spriteTypes = {
 		name = "GFX_development_button_base_manpower"
 		texturefile = "gfx/interface/development_button_base_manpower.dds"
 	}		
-		
+	
 	spriteType = {
 		name = "GFX_transfer_occupation_button"
 		texturefile = "gfx/interface/transfer_occupation_button.dds"
@@ -356,8 +356,8 @@ spriteTypes = {
 		loadType = "INGAME"
 		transparencecheck = yes
 	}
-
-		spriteType = {
+	
+	spriteType = {
 		name = "GFX_return_province_button"
 		texturefile = "gfx/interface/return_province_button.dds"
 		loadType = "INGAME"
@@ -415,7 +415,6 @@ spriteTypes = {
 	textSpriteType = {
 		name = "gfx_button_base_button"
 		texturefile = "gfx//interface//button_base_button.dds"
-		
 		clicksound = click
 	}
 
@@ -498,8 +497,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_province_banner"
 		texturefile = "gfx/interface/province_banner.dds"
-	}	
-
+	}
 	
 	spriteType = { 
 		name = "GFX_no_edict"
@@ -583,7 +581,8 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_sort_state_shield"
 		texturefile = "gfx/interface/sort_state_shield.dds"
-	}	
+	}
+	
 	spriteType = {
 		name = "GFX_sort_state_devastation"
 		texturefile = "gfx/interface/sort_state_devastation.dds"
@@ -675,14 +674,12 @@ spriteTypes = {
 		name = "GFX_core_cost"
 		texturefile = "gfx//interface//ideas_EU4//enemy_core_creation.tga"
 		loadType = "INGAME"
-		
 	}	
 	
 	spriteType = {
 		name = "GFX_core_cost02"
 		texturefile = "gfx//interface//ideas_EU4//enemy_core_creation02.tga"
 		loadType = "INGAME"
-		
 	}
 
 
@@ -690,7 +687,6 @@ spriteTypes = {
 		name = "GFX_hostile_attrition"
 		texturefile = "gfx//interface//ideas_EU4//hostile_attrition.tga"
 		loadType = "INGAME"
-		
 	}	
 	
 	spriteType = {
@@ -716,11 +712,13 @@ spriteTypes = {
 		texturefile = "gfx//interface//provinceView_religion_bg_glow.tga"
 		alwaystransparent = yes
 	}
+	
 	spriteType = {
 		name = "GFX_small_red_glow"
 		texturefile = "gfx//interface//small_red_glow.tga"
 		alwaystransparent = yes
 	}
+	
 	spriteType = {
 		name = "GFX_looted_icon"
 		texturefile = "gfx//interface//looted_icon.tga"
@@ -764,7 +762,6 @@ spriteTypes = {
 		noOfFrames = 1
 	}
 	
-
 	spriteType = {
 		name = "GFX_building_currentlybuilding"
 		texturefile = "gfx//interface//building_currentlybuilding.tga"
@@ -808,7 +805,7 @@ spriteTypes = {
 		name = "GFX_province_view_history_bg"
 		texturefile = "gfx/interface/province_view_history_bg.dds"
 	}
-
+	
 	spriteType = {
 		name = "GFX_if_colony_bg"
 		texturefile = "gfx/interface/if_colony_bg.dds"
@@ -818,35 +815,41 @@ spriteTypes = {
 		name = "GFX_build_unit_queue"
 		texturefile = "gfx/interface/build_unit_queue.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_build_unit_queue_merc"
 		texturefile = "gfx/interface/build_unit_queue_merc.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_build_unit_queue_banner"
 		texturefile = "gfx/interface/build_unit_queue_banner.dds"
-	}	
+	}
+	
 	spriteType = {
 		name = "GFX_build_unit_entry"
 		texturefile = "gfx/interface/build_unit_entry.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_build_unit_entry_merc"
 		texturefile = "gfx/interface/build_unit_entry_merc.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_build_unit_entry_banner"
 		texturefile = "gfx/interface/build_unit_entry_banner.dds"
-	}	
+	}
+	
 	spriteType = {
 		name = "GFX_build_unit_entry_naval"
 		texturefile = "gfx/interface/build_unit_entry_naval.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_build_unit_bg"
 		texturefile = "gfx/interface/build_unit_bg.dds"
 	}
-	
 	
 	textSpriteType = {
 		name = "GFX_button_colonize"
@@ -866,9 +869,7 @@ spriteTypes = {
 		texturefile = "gfx//interface//provinceView_build_army_amount_bg.tga"
 		alwaystransparent = yes
 	}
-
 	
-
 	spriteType = {
 		name = "GFX_button_show_unique_buildings"
 		texturefile = "gfx//interface//button_show_unique_buildings.tga"
@@ -922,6 +923,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		alwaystransparent = yes
 	}
+	
 	spriteType = {
 		name = "GFX_building_canbuild_unique"
 		texturefile = "gfx//interface//building_canbuild_unique.dds"
@@ -929,6 +931,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		alwaystransparent = yes
 	}
+	
 	progressbartype = {
 		name = "GFX_building_progress"
 		color = { 0.0 0.5 0.0 }
@@ -975,14 +978,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_resource_icon"
 		texturefile = "gfx//interface//resources.tga"
-		noOfFrames = 33
+		noOfFrames = 34
 		loadType = "INGAME"
 	}
 	
 	spriteType = {
 		name = "GFX_resource_icon_small"
 		texturefile = "gfx//interface//resources_small.dds"
-		noOfFrames = 33
+		noOfFrames = 34
 		loadType = "INGAME"
 	}
 
@@ -995,9 +998,8 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_resource_icon_transparent"
 		texturefile = "gfx//interface//resources.tga"
-		noOfFrames = 33
+		noOfFrames = 34
 		loadType = "INGAME"
-		
 		alwaystransparent = yes
 	}
 
@@ -1006,7 +1008,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//cash_picture.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 	}
 
 	spriteType = {
@@ -1014,7 +1015,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//diploconfirm_banner.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 
@@ -1023,7 +1023,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//frame_missionary.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 
@@ -1032,14 +1031,12 @@ spriteTypes = {
 		texturefile = "gfx//interface//natives.tga"
 		noOfFrames = 6
 		loadType = "INGAME"
-		
 	}
 
 	spriteType = {	
 		name = "GFX_pause_build_icon"
 		texturefile = "gfx//interface//pause_build_icon.tga"
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 
@@ -1048,7 +1045,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//mutually_progress_strip.tga"
 		noOfFrames = 5
 		loadType = "INGAME"
-		
 		effectFile = "gfx/FX/buttonstate.lua"
 		transparencecheck = yes
 	}
@@ -1058,7 +1054,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//unit_types_strip.tga"
 		noOfFrames = 10
 		loadType = "INGAME"
-		
 		effectFile = "gfx/FX/buttonstate.lua"
 		alwaystransparent = yes
 	}
@@ -1068,35 +1063,30 @@ spriteTypes = {
 		texturefile = "gfx//interface//unit_types_strip.tga"
 		noOfFrames = 10
 		loadType = "INGAME"
-		
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
+	
 	spriteType = {	
 		name = "GFX_unit_naming"
 		texturefile = "gfx//interface//unit_naming.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		effectFile = "gfx/FX/buttonstate.lua"
 	}
-
 	
 	spriteType = {	
 		name = "GFX_building_bg"
 		texturefile = "gfx//interface//building_plain_bg.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
-
-
+	
 	spriteType = {	
 		name = "GFX_build_navy_bg"
 		texturefile = "gfx//interface//build_navy_bg.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 	
@@ -1105,7 +1095,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//build_army_bg.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 
@@ -1114,7 +1103,6 @@ spriteTypes = {
 		texturefile = "gfx//interface//build_buildings_bg.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 
@@ -1122,8 +1110,8 @@ spriteTypes = {
 		name = "GFX_closebutton"
 		texturefile = "gfx//interface//closebutton.tga"
 		loadType = "INGAME"
-		
 	}
+	
 	spriteType = {
 		name = "GFX_closebutton2"
 		texturefile = "gfx//interface//closebutton.tga"
@@ -1181,9 +1169,7 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		loadType = "INGAME"
 	}
-
 	
-
 	spriteType = {	
 		name = "GFX_building_africangfx"
 		texturefile = "gfx//interface//buildings_africangfx.tga"
@@ -1228,12 +1214,12 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		loadType = "INGAME"
 	}
+	
 	spriteType = {	
 		name = "GFX_prov_decisions_bg"
 		texturefile = "gfx//interface//prov_decisions_bg.tga"
 		noOfFrames = 1
 		loadType = "INGAME"
-		
 		transparencecheck = yes
 	}
 	
@@ -1242,20 +1228,23 @@ spriteTypes = {
 		texturefile = "gfx//interface//cb_banner.tga"
 		noOfFrames = 1
 	}
-		
+	
 	spriteType = {
 		name = "GFX_bg_traderights"
 		texturefile = "gfx//interface//bg_traderights.tga"
 		noOfFrames = 1
 	}
+	
 	spriteType = {
 		name = "GFX_province_assault_icon"
 		texturefile = "gfx//interface//assault_icon.tga"
 	}
+	
 	spriteType = {
 		name = "GFX_province_breach_icon"
 		texturefile = "gfx//interface//breach_icon.tga"
 	}
+	
 	spriteType = {
 		name = "GFX_defensiveness_icon"
 		texturefile = "gfx//interface//icon_power.dds"
@@ -1322,19 +1311,23 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_make_state_button"
 		texturefile = "gfx/interface/make_state_button.dds"
-	}	
+	}
+	
 	spriteType = {
 		name = "GFX_abandon_state_button"
 		texturefile = "gfx/interface/abandon_state_button.dds"
-	}	
-		spriteType = {
+	}
+	
+	spriteType = {
 		name = "GFX_concentrate_development"
 		texturefile = "gfx/interface/concentrate_development.dds"
-	}	
+	}
+	
 	spriteType = {
 		name = "GFX_core_all_button"
 		texturefile = "gfx/interface/core_all_button.dds"
 	}	
+	
 	spriteType = {
 		name = "GFX_centralize_state_button"
 		texturefile = "gfx/interface/centralize_state.dds"
@@ -1345,20 +1338,22 @@ spriteTypes = {
 		#texturefile = "gfx/interface/settlement_growth_button.dds"
 		texturefile = "gfx/interface/development_button_tax.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_center_of_revolution"
 		texturefile = "gfx/interface/revolution/birthplace_of_revolution.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_revolution_spread"
 		texturefile = "gfx/interface/revolution/revolution_spread_32x32.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_revolution_spreading"
 		texturefile = "gfx/interface/revolution/spread_of_revolution_63x63.dds"
-	
-	
 	}
+	
 	spriteType = {
 		name = "GFX_great_project_level_icon_tier_0"
 		texturefile = "gfx/interface/great_projects/great_projects_level_icons/great_project_level_icon_tier_0.dds"
