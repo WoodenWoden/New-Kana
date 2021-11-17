@@ -46,7 +46,7 @@ ship_names = {
 
 army_names = {
 	"Cana sa Spe"
-	"Cana sa Suogah"
+	"Cana sa Soagah"
 	"Cana sa $PROVINCE$" 
 }
 
