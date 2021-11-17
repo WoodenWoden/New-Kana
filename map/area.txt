@@ -3,7 +3,7 @@
 # Cuite
 
 mon_area = {
-	214 215 216 217
+	214 215 216 217 218
 }
 
 south_lachan_area = {
@@ -449,7 +449,7 @@ leon_area = { #3
 }
 
 extremadura_area = {
-	4788 218 1747
+	4788 1747
 }
 
 beieras_area = { #4

@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = spean
+capital = 219 # Speow
+fixed_capital = 219 # Speow
+
+1408.3.2 = {
+	monarch = {
+		name = "Nelim"
+		dynasty = "sa Soagah"
+		birth_date = 1408.3.2
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

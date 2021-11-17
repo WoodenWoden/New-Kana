@@ -7,7 +7,7 @@ primary_culture = wugan
 capital = 210 # West Wug
 fixed_capital = 211 # East Wug
 
-1429.1.1 = {
+1429.12.6 = {
 	monarch = {
 		name = "Elam"
 		dynasty = "se Luct"

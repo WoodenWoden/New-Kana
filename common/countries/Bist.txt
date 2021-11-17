@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 
 color = { 207  51  17 }
 
@@ -8,27 +8,39 @@ revolutionary_colors = { 58 1 0 }
 
 monarch_names = {
 	"Curci" = 100
+	"Midih" = 100
 	"Dama" = 90
 	"Eram" = 90
+	"Lam" = 80
+	"Lebt" = 80
 	"Samt" = 80
-	"Dam" = 70
+	"Wonan" = 70
+	"Dam" = 60
 	
 	"Nilem" = -1
+	"Raesalu" = -1
 }
 
 leader_names = {
 	Curci
-	Eram
-	Samt
 	Dam Dama
+	Eram
+	Lam Lebt
+	Midih
+	Samt
+	Wonan
 }
 
 ship_names = {
 	Curcena
-	Eramna
-	Nilemna
-	Samna
 	Damana Damna
+	Eramna
+	Lamna Lebna
+	Midina
+	Nilemna
+	Raesalona
+	Samna
+	Wonanna
 }
 
 

@@ -9,16 +9,68 @@
 
 cuitic = {
 	graphical_culture = easterngfx
-
+	
+	bistan = {
+		primary = BIS
+		male_names = {
+			Curci
+			Dam Dama
+			Eram
+			Lam
+			Lebt
+			Midih
+			Samt
+			Wonan
+		}
+		female_names = {
+			Nilem
+			Raesalu
+		}
+		dynasty_names = {
+			"se Bist" "se Bu"
+			"se Demir" "se Duslan"
+			"se Gipol" "se Gugo"
+			"se Ham" "se Hesgi"
+			"se Ilid"
+			"se Rainon" "se Ram"
+			"se Seod"
+			"se Wost"
+		}
+	}
+	
+	spean = {
+		primary = SPE
+		male_names = {
+			Aram
+			Curce
+			Dama Dem
+			Gwonen
+			Lam Lebt
+			Medih
+			Samt
+		}
+		female_names = {
+			Nelim
+			Rasalo
+		}
+		dynasty_names = {
+			"sa Spe" "sa Speow" "sa Soagah"
+		}
+	}
+	
 	wugan = {
 		primary = WUG
 		male_names = {
 			Chulchi
+			Cwunen
 			Elam
+			Lam Lebt
+			Miti
 			Samt
 			Tama Tem
 		}
 		female_names = {
+			Laesalu
 			Nilim
 		}
 		dynasty_names = {
@@ -27,29 +79,6 @@ cuitic = {
 			"se Sasab" "se Sathem"
 			"se Thmiet"
 			"se Wug"
-		}
-	}
-	
-	bistan = {
-		primary = BIS
-		male_names = {
-			Curci
-			Eram
-			Samt
-			Dam Dama
-		}
-		female_names = {
-			Nilem
-		}
-		dynasty_names = {
-			"se Bist" "se Bu"
-			"se Demir" "se Duslan"
-			"se Gipol" "se Gugo"
-			"se Ham"
-			"se Ilid"
-			"se Rainon"
-			"se Seod"
-			"se Wost"
 		}
 	}
 }
