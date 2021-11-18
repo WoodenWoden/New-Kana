@@ -29,3 +29,22 @@ adamantium = {
 		factor = 0
 	}
 }
+
+potions = {
+	color = { 0.69 0.64 0.92 }
+	modifier = {
+		country_admin_power = 1
+		country_diplomatic_power = 1
+		country_military_power = 1
+	}
+	province = {
+		trade_goods_size = 0.5
+	}
+	chance = {
+		factor = 1
+		OR = {
+			has_terrain = glacier
+			has_terrain = farmlands
+		}
+	}
+}

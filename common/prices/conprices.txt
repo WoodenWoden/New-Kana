@@ -5,3 +5,7 @@ fruit = {
 adamantium = {
 	base_price = 10
 }
+
+potions = {
+	base_price = 6
+}
