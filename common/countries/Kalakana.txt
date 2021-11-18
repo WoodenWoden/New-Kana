@@ -11,8 +11,8 @@ monarch_names = {
 	"Sanko" = 100
 	"Pagma" = 90
 	
-	"Velak" = -1
-	"Tepka" = -1
+	"Velak" = -100
+	"Tepka" = -100
 }
 
 leader_names = {

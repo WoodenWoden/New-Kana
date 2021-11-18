@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 
 color = { 157  51  167 }
 
@@ -9,23 +9,32 @@ revolutionary_colors = { 8 1 8 }
 monarch_names = {
 	"Elam" = 100
 	"Tama" = 100
+	"Miti" = 90
 	"Samt" = 90
+	"Cwunen" = 80
 	"Tem" = 80
+	"Lam" = 70
+	"Lebt" = 70
 	"Chulchi" = 60
 	
-	"Nilim" = -1
+	"Laesalu" = -100
+	"Nilim" = -100
 }
 
 leader_names = {
-	Chulchi
+	Chulchi Cwunen
 	Elam
+	Lam Lebt
+	Miti
 	Samt
 	Tama Tem
 }
 
 ship_names = {
-	Chulchina
+	Chulchina Cwunenna
 	Elamna
+	Laesaluna Lamna Lebna
+	Mitina
 	Nilimna
 	Samna
 	Tamana Temna

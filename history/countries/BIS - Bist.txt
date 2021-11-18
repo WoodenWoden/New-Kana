@@ -6,7 +6,7 @@ religion = nopt
 primary_culture = bistan
 capital = 214 # Ilid
 
-1410.1.1 = {
+1410.12.11 = {
 	monarch = {
 		name = "Curci"
 		dynasty = "se Demir"
@@ -14,5 +14,24 @@ capital = 214 # Ilid
 		adm = 2
 		dip = 2
 		mil = 3
+		
+		leader = {
+			name = "Curci se Demir"
+			type = general
+			fire = 2
+			shock = 1
+			manuever = 3
+			siege = 1
+		}
+	}
+	queen = {
+		name = "Raesalu"
+		dynasty = "se Demir"
+		birth_date = 1415.12.3
+		death_date = 1447.12.11
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 1
 	}
 }
