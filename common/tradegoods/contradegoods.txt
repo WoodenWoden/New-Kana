@@ -23,7 +23,7 @@ adamantium = {
 		mil_tech_cost_modifier = -0.05
 	}
 	province = {
-		accept_vassalization_reasons = 10
+		accept_vassalizationn_reasons = 10
 	}
 	chance = {
 		factor = 0
@@ -41,10 +41,6 @@ potions = {
 		trade_goods_size = 0.5
 	}
 	chance = {
-		factor = 1
-		OR = {
-			has_terrain = glacier
-			has_terrain = farmlands
-		}
+		factor = 0
 	}
 }

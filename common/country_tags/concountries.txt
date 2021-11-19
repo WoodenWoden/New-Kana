@@ -2,6 +2,6 @@
 BIS = "countries/Bist.txt"
 KLA = "countries/Kalakana.txt"
 MAO = "countries/Maloda.txt"
-SPE = "countries/Spe.txt"
+PEN = "countries/Penlom.txt"
 THM = "countries/Thmiet.txt"
 WUG = "countries/Wug.txt"

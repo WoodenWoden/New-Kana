@@ -1,0 +1,65 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 150  188  114 }
+
+revolutionary_colors = { 196 205 223 }
+
+monarch_names = {
+	"Aram" = 20
+	"Curce" = 80
+	"Curci" = 50
+	"Dama" = 30
+	"Dem" = 70
+	"Eram" = 10
+	"Gwonen" = 70
+	"Gwunen" = 10
+	"Lam" = 90
+	"Lebt" = 10
+	"Medih" = 40
+	"Midih" = 30
+	"Samt" = 60
+	
+	"Nelim" = -100
+	"Nilim" = -60
+	"Raesalu" = -10
+	"Rasalo" = -20
+}
+
+leader_names = {
+	Aram
+	Curce Curci
+	Dama Dem
+	Eram
+	Gwonen Gwunen
+	Lam Lebt
+	Medih Midih
+	Samt
+}
+
+ship_names = {
+	Aramna
+	Curcena Curcina
+	Damana Demna
+	Eramna
+	Gwonenna Gwunenna
+	Lamna Lebna
+	Medina Midina
+	Nelimna Nilimna
+	Raesaluna Rasalona
+	Samna
+}
+
+
+army_names = {
+	"Cana sa Penlom"
+	"Cana sa Galdban"
+	"Cana sa $PROVINCE$" 
+}
+
+fleet_names = {
+	"Stelle sa Penlom"
+	"Stelle sa Galdban"
+	"Stelle sa $PROVINCE$"
+}
