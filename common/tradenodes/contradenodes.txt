@@ -1,4 +1,4 @@
-northern_moutda_sea = {
+moutda = {
 	location = 210
 	color = {
 		255 155 55

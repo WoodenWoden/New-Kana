@@ -2,11 +2,11 @@
 
 # Cuite
 
-mon_area = {
+pmun_area = {
 	214 215 216 217 218
 }
 
-south_lachan_area = {
+south_lacan_area = {
 	210 211 212 213
 }
 

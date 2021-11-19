@@ -4,7 +4,7 @@ mercantilism = 25
 technology_group = eastern
 religion = nopt
 primary_culture = penan
-capital = 219 # Dae
+capital = 219 # Dei
 
 1408.3.2 = {
 	monarch = {

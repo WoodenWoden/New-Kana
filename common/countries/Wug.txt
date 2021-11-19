@@ -7,35 +7,47 @@ color = { 157  51  167 }
 revolutionary_colors = { 8 1 8 }
 
 monarch_names = {
-	"Elam" = 100
-	"Tama" = 100
-	"Miti" = 90
-	"Samt" = 90
-	"Cwunen" = 80
-	"Tem" = 80
+	"Chulchi" = 30
+	"Curci" = 60
+	"Cwunen" = 20
+	"Dama" = 70
+	"Dem" = 40
+	"Elam" = 10
+	"Eram" = 90
+	"Gwunen" = 10
 	"Lam" = 70
-	"Lebt" = 70
-	"Chulchi" = 60
+	"Lebt" = 10
+	"Midih" = 40
+	"Miti" = 20
+	"Samt" = 70
+	"Tama" = 40
+	"Tem" = 40
 	
-	"Laesalu" = -100
-	"Nilim" = -100
+	"Laesalu" = -10
+	"Nilim" = -10
+	"Raesalu" = -40
 }
 
 leader_names = {
-	Chulchi Cwunen
-	Elam
+	Curci Chulchi Cwunen
+	Dama Dem
+	Elam Eram
+	Gwunen
 	Lam Lebt
-	Miti
+	Midih Miti
 	Samt
 	Tama Tem
 }
 
 ship_names = {
-	Chulchina Cwunenna
-	Elamna
+	Curcina Chulchina Cwunenna
+	Damana Demna
+	Elamna Eramna
+	Gwunenna
 	Laesaluna Lamna Lebna
-	Mitina
+	Midina Mitina
 	Nilimna
+	Raesaluna
 	Samna
 	Tamana Temna
 }
