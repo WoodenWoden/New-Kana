@@ -4,7 +4,7 @@ mercantilism = 25
 technology_group = polynesian_tech
 religion = nagamalu
 primary_culture = sali
-capital = 337
+capital = 331
 
 1429.1.1 = {
 	monarch = {
