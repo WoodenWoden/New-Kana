@@ -38,8 +38,8 @@ cuitic = {
 		}
 	}
 	
-	spean = {
-		primary = SPE
+	penan = {
+		primary = PEN
 		male_names = {
 			Aram
 			Curce
@@ -54,7 +54,9 @@ cuitic = {
 			Rasalo
 		}
 		dynasty_names = {
-			"sa Spe" "sa Speow" "sa Soagah"
+			"sa Dae"
+			"sa Galdban"
+			"sa Penlom"
 		}
 	}
 	

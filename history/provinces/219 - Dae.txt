@@ -1,9 +1,9 @@
-add_core = SPE
-owner = SPE
-controller = SPE
+add_core = PEN
+owner = PEN
+controller = PEN
 
-capital = "Soagah"
-culture = spean
+capital = "Galdban"
+culture = penan
 religion = nopt
 trade_goods = grain
 base_tax = 1
