@@ -2,8 +2,16 @@
 
 # Cuite
 
+ledni_area = {
+	219 220 221 222
+}
+
 pmun_area = {
 	214 215 216 217 218
+}
+
+prosaca_area = {
+	223 224 225 226 227 228
 }
 
 south_lacan_area = {
@@ -407,15 +415,15 @@ catalonia_area = { #5
 }
 
 valencia_area = { #5
-	220 1750 4549 4550
+	1750 4549 4550
 }
 
 lower_andalucia_area = { #5
-	224 225 1748 1749 4548
+	1748 1749 4548
 }
 
 upper_andalucia_area = { #4
-	222 223 226 4546
+	4546
 }
 
 castille_area = { #5
@@ -424,7 +432,7 @@ castille_area = { #5
 }
 
 toledo_area = { #5
-	219 221 2751 2754 4547
+	2751 2754 4547
 }
 
 asturias_area = { #4
@@ -453,11 +461,11 @@ extremadura_area = {
 }
 
 beieras_area = { #4
-	231 232 228 1851 4556
+	231 232 1851 4556
 }
 
 alentejo_area = { #5
-	227 229 230 4150 4787
+	229 230 4150 4787
 }
 
 macaronesia_area = { #3

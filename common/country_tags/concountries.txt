@@ -1,7 +1,8 @@
-# Wug
 BIS = "countries/Bist.txt"
 KLA = "countries/Kalakana.txt"
+LOM = "countries/Lom.txt"
 MAO = "countries/Maloda.txt"
-PEN = "countries/Penlom.txt"
+PEL = "countries/Penlom.txt"
+PEN = "countries/Pen.txt"
 THM = "countries/Thmiet.txt"
 WUG = "countries/Wug.txt"

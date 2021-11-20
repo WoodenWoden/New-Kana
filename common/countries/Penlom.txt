@@ -10,15 +10,19 @@ monarch_names = {
 	"Aram" = 20
 	"Curce" = 80
 	"Curci" = 50
+	"Curge" = 20
 	"Dama" = 30
 	"Dem" = 70
 	"Eram" = 10
+	"Gonen" = 80
 	"Gwonen" = 70
 	"Gwunen" = 10
 	"Lam" = 90
+	"Lebd" = 50
 	"Lebt" = 10
 	"Medih" = 40
 	"Midih" = 30
+	"Samd" = 80
 	"Samt" = 60
 	
 	"Nelim" = -100
@@ -29,21 +33,21 @@ monarch_names = {
 
 leader_names = {
 	Aram
-	Curce Curci
+	Curce Curci Curge
 	Dama Dem
 	Eram
-	Gwonen Gwunen
-	Lam Lebt
+	Gonen Gwonen Gwunen
+	Lam Lebd Lebt
 	Medih Midih
-	Samt
+	Samd Samt
 }
 
 ship_names = {
 	Aramna
-	Curcena Curcina
+	Curcena Curcina Curgena
 	Damana Demna
 	Eramna
-	Gwonenna Gwunenna
+	Gonenna Gwonenna Gwunenna
 	Lamna Lebna
 	Medina Midina
 	Nelimna Nilimna
@@ -54,12 +58,36 @@ ship_names = {
 
 army_names = {
 	"Cana sa Penlom"
-	"Cana sa Galdban"
-	"Cana sa $PROVINCE$" 
+	
+	"Cana sa Lom"
+	"Cana sa Pen"
+	
+	"Cana sa Bracea"
+	"Cana sa Crebo" "Cana sa Crepo"
+	"Cana sa Faor"
+	"Cana sa Galdban" "Cana sa Galdwan" "Cana sa Gsad" "Cana sa Gsat"
+	"Cana sa Loic" "Cana sa Loig"
+	"Cana s'Obn"
+	"Cana sa Peull"
+	"Cana sa Sesla"
+	"Cana sa Trah" "Cana sa Trea"
+	"Cana sa Waor
 }
 
 fleet_names = {
 	"Stelle sa Penlom"
-	"Stelle sa Galdban"
-	"Stelle sa $PROVINCE$"
+	
+	"Stelle sa Lom"
+	"Stelle sa Pen"
+	
+	"Stelle sa Bracea"
+	"Stelle sa Crebo" "Stelle sa Crepo"
+	"Stelle sa Faor"
+	"Stelle sa Galdban" "Stelle sa Galdwan" "Stelle sa Gsad" "Stelle sa Gsat"
+	"Stelle sa Loic" "Stelle sa Loig"
+	"Stelle s'Obn"
+	"Stelle sa Peull"
+	"Stelle sa Sesla"
+	"Stelle sa Trah" "Stelle sa Trea"
+	"Stelle sa Waor"
 }

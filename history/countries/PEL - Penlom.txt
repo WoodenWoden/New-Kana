@@ -1,0 +1,40 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = penan
+add_accepted_culture = loman
+capital = 220 # Oncia
+
+1408.3.2 = {
+	monarch = {
+		name = "Nelim"
+		dynasty = "sa Galdwan"
+		birth_date = 1408.3.2
+		female = yes
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	heir = {
+		name = "Lam"
+		monarch_name = "Lam"
+		dynasty = "sa Dae"
+		birt_date = 1439.1.20
+		death_date = 1461.12.9
+		claim = 70
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	queen = {
+		name = "Medih"
+		dynasty = "sa Dae"
+		birt_date = 1417.9.8
+		death_date = 1458.4.4
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}

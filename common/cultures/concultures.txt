@@ -24,17 +24,21 @@ cuitic = {
 		Raesalu
 	}
 	dynasty_names = {
-		"se Bist" "se Bmein" "se Bu"
+		"s'Arouw"
+		"se Bist" "se Bmein" "se Brocie" "se Bru" "se Bu"
+		"se Cir" "se Co" "se Cripu"
 		"se Dei" "se Dimir" "se Duslan"
-		"se Galdban" "se Gipol" "se Gugo"
-		"se Hom" "se Hesgi"
-		"se Ilid"
-		"se Luct" "se Lwost"
-		"se Penlom"
-		"se Raihnun" "se Trom"
-		"se Sasab" "se Satem"
-		"se Tmiet" "se Tseod"
-		"se Wug"
+		"s'Eip"
+		"se Galdban" "se Gipol" "se Gsat" "se Gugo"
+		"se Hactra" "se Hom" "se Hesgi"
+		"s'Ilid"
+		"se Lom" "se Luct" "se Luic" "se Luta" "se Lwost"
+		"s'Obn" "s'Oncia"
+		"se Pen" "se Penlom" "se Piull"
+		"se Raihnun" "se Rancalo"
+		"se Sasab" "se Satem" "se Sesla"
+		"se Tmei" "se Tmiet" "se Trah" "se Trom" "se Trie" "se Tseod"
+		"se Weor" "se Wug"
 	}
 	
 	bistan = {
@@ -55,6 +59,34 @@ cuitic = {
 		}
 	}
 	
+	loman = {
+		primary = LOM
+		male_names = {
+			Aram
+			Curge
+			Gonen
+			Lebd
+			Medih
+			Samd
+		}
+		female_names = {
+			Nelim
+			Rasalo
+		}
+		dynasty_names = {
+			"s'Aib" "s'Arauf"
+			"sa Bracea" "sa Bro"
+			"sa Ca" "sa Cir" "sa Crebo"
+			"sa Faor"
+			"sa Hagdra"
+			"sa Loig" "sa Lom"
+			"s'Obn"
+			"sa Peull"
+			"sa Rangala"
+			"sa Trah"
+		}
+	}
+	
 	penan = {
 		primary = PEN
 		male_names = {
@@ -69,6 +101,12 @@ cuitic = {
 		}
 		dynasty_names = {
 			"sa Dae"
+			"sa Galdwan" "sa Gsat"
+			"sa Luta"
+			"s'Oncea"
+			"sa Pen"
+			"sa Sesla"
+			"sa Tmae" "sa Trea"
 		}
 	}
 	
