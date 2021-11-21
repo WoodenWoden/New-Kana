@@ -139,14 +139,40 @@ takua = {
 			Taro
 			Sanko
 			Pagma
+			Mada
+			Galanamasa
+			Ekha
+			Maganda
+			Sagapano
+			Mala
+			Vanka
+			Tama
 		}
 		female_names = {
 			Velak
 			Tepka
+			Baganda
+			Bako
+			Balihe
+			Halokana
+			Eziina
+			Halonga
+			Nawa
+			Kamma
 		}
 		dynasty_names = {
 			Pakana
 			Sakapan
+			Kalbu
+			Mokagana
+			Megakk
+			Lassa
+			Mak
+			Malakas
+			Mango
+			Nga
+			Ngan
+			Nuankha
 		}
 	}
 }
