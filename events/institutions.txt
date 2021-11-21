@@ -124,11 +124,10 @@ country_event = {
 			}
 			limit = {
 				OR = {
-					trade_goods = iron
 					trade_goods = copper
 				}
 			}
-			change_trade_goods = adamantium
+			change_trade_goods = ochrium
 		}
 		hidden_effect = {
 			every_country = {
