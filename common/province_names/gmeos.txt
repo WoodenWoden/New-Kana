@@ -26,4 +26,5 @@
 236 = "Ased"
 237 = "Aneg"
 287 = "Wen"
+296 = "Sasa"
 297 = "Nawea"

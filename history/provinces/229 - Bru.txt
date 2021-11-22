@@ -1,4 +1,4 @@
-add_core = PEN
+add_core = PNE
 add_core = PEL
 owner = PEL
 controller = PEL

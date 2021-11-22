@@ -26,4 +26,5 @@
 236 = "Asiet"
 237 = "Anec"
 287 = "Wan"
+296 = "Seasao"
 297 = "Nawio"
