@@ -3,9 +3,9 @@ add_government_reform = feudal_monarchy
 mercantilism = 25
 technology_group = eastern
 religion = nopt
-primary_culture = wugan
-capital = 210 # West Wug
-fixed_capital = 211 # East Wug
+primary_culture = luoc
+capital = 210 # East Wug
+fixed_capital = 211 # West Wug
 
 1429.12.6 = {
 	monarch = {

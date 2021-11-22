@@ -2,7 +2,7 @@ add_core = WUG
 owner = WUG
 controller = WUG
 
-capital = "Tuslan"
+capital = "Cuco"
 culture = luoc
 religion = nopt
 trade_goods = grain

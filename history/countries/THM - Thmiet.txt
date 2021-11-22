@@ -3,4 +3,4 @@ add_government_reform = feudal_monarchy
 mercantilism = 25
 technology_group = eastern
 religion = nopt
-primary_culture = wugan
+primary_culture = luoc

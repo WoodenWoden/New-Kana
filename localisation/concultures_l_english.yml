@@ -1,13 +1,14 @@
 ﻿l_english:
 # Niapti
-
-# Cuitic
- cuitic: "Cuitic"
- bistan: "Bistan"
- loman: "Loman"
- penan: "Penan"
- wugan: "Wugan"
+# Cuite
+ south_cuitic: "South Cuitic"
+ 
+ adamannat: "Adamannat"
+ gmeos: "Gmeos"
+ luoc: "Luoc"
+ nanim: "Nanim"
  
 # Takua
  takua: "Takua"
+ 
  sali: "Sali"

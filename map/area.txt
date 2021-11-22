@@ -2,20 +2,36 @@
 
 # Cuite
 
-ledni_area = {
-	219 220 221 222
+cromtur_area = {
+	210 211 212 213 214 215 216
 }
 
-pmun_area = {
-	214 215 216 217 218
+ledni_area = {
+	217 218 219
+	220 221 222 223
+}
+
+placeholder_area = {
+	225
+	238 239
+	240 241 242 243 244 245 246 247 248 249
+	250 251 252 253 254 255 256 257 258 259
+	260 261 262 263 264 265 266 267 268 269
+	270 271 272 273 274 275 276 277 278 279
+	280 281 282 283 284 285 286 288 289
+	290 291 292 293 294 295 298 299
 }
 
 prosaca_area = {
-	223 224 225 226 227 228
+	224 226 227 228 229
+	230
+	287
+	297
 }
 
-south_lacan_area = {
-	210 211 212 213
+sursid_area = {
+	231 232 233 234 235 236 237
+	296
 }
 
 #Sea Areas:
@@ -461,11 +477,11 @@ extremadura_area = {
 }
 
 beieras_area = { #4
-	231 232 1851 4556
+	1851 4556
 }
 
 alentejo_area = { #5
-	229 230 4150 4787
+	4150 4787
 }
 
 macaronesia_area = { #3
@@ -559,47 +575,47 @@ ulster_area = { #3
 }
 
 kingdom_of_the_isles_area = { #3
-	253 4364 4365
+	4364 4365
 }
 
 highlands_area = { #5
-	250 252 369 4110 4363
+	369 4110 4363
 }
 
 lowlands_area = { #5
-	248 249 251 4361 4362
+	4361 4362
 }
 
 wales_area = { #4
-	241 242 4366 4369
+	4366 4369
 }
 
 scottish_marches_area = { #4
-	246 247 244 4375
+	4375
 }
 
 yorkshire_area = { #4
-	245 4367 4368 4785
+	4367 4368 4785
 }
 
 west_midlands_area = { #3
-	239 240 4372
+	4372
 }
 
 east_midlands_area = { #3
-	243 1861 4376
+	1861 4376
 }
 
 wessex_area = { #5
-	233 234 4130 4373 4374
+	4130 4373 4374
 }
 
 home_counties_area = { #4
-	235 236 237 4371 
+	4371 
 }
 
 east_anglia_area = { #3
-	238 1860 4370
+	1860 4370
 }
 
 ########################################
@@ -687,7 +703,7 @@ estonia_ingria_area = { #3
 }
 
 livonia_area = { #4
-	37 38 273 4241
+	37 38 4241
 }
 
 curonia_area = { #3
@@ -703,43 +719,43 @@ west_prussia_area = { #3 (South West Prussia)
 }
 
 wielkopolska_area = { #5
-   254 4526 255 2963
+   4526 2963
 }
 
 malopolska_area = { #5
-	262 4527 2960
+	4527 2960
 }
 
 red_ruthenia_area = { #5 
-	261 1940 2424 2961 4541
+	1940 2424 2961 4541
 }
 
 podolia_volhynia_area = { #3
-	281 4540 1943 
+	4540 1943 
 }
 
 volhynia_area = { # 4
-	279 2962 4539 4538
+	2962 4539 4538
 }
 
 pripyat_area = { #4
-	 278 1941 4537 4545
+	1941 4537 4545
 }
 
 podlasie_area = {
-	269 277 1937
+	1937
 }
 
 mazovia_area = { #4
-	256 257  1938 4525
+	1938 4525
 }
 
 central_poland_area = {
-	258 1939 4533
+	1939 4533
 }
 
 sandomierz_area = {
-	260 2959 259   
+	2959
 }
 
 kuyavia_area = {
@@ -747,51 +763,51 @@ kuyavia_area = {
 }
 
 samogitia_area = { #4
-	270 271 1936 4534 
+	1936 4534 
 }
 
 lithuania_area = { #5
-	272 770 4535 4536
+	770 4535 4536
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine
-	280 1942 1944 4247
+	1942 1944 4247
 }
 
 east_dniepr_area = { #4 Left bank Ukraine
-	290 2407 4542
+	2407 4542
 }
 
 chernigov_area = {
-	1945 289 4543
+	1945 4543
 }
 
 sloboda_ukraine_area = { #4
-	291 298 299 2408
+	2408
 }
 
 yedisan_area = { #3
-	282 1974 2406
+	1974 2406
 }
 
 zaporizhia_area = { #3
-	283 2411 2412
+	2411 2412
 }
 
 azov_area = { #4
-	286 287 2413 2414
+	2413 2414
 }
 
 crimea_area = { #4
-	284 285 2410 2447
+	2410 2447
 }
 
 white_ruthenia_area = { #3
-	292 771 4246
+	771 4246
 }
 
 minsk_area = { #4
-	276 4115 4242 4544
+	4115 4242 4544
 }
 
 #Opolye
@@ -801,7 +817,7 @@ ryazan_area = { #4
 }
 
 moscow_area = { #4
-	295 4251 4252
+	4251 4252
 }
 
 vladimir_area = { #3
@@ -813,7 +829,7 @@ yaroslavl_area = { #4
 }
 
 tver_area = { #5
-	294 1752 4243 4248 4249 
+	1752 4243 4248 4249 
 }
 
 suzdal_area = { #3
@@ -821,11 +837,11 @@ suzdal_area = { #3
 }
 
 smolensk_area = { #4
-	293 297 4244 4245
+	4244 4245
 }
 
 oka_area = { #3
-	296 300 4116
+	300 4116
 }
 
 novgorod_area = { #5
@@ -833,7 +849,7 @@ novgorod_area = { #5
 }
 
 pskov_area = { #4
-	274 275 1960 4148
+	1960 4148
 }
 
 vologda_area = { #3
@@ -849,7 +865,7 @@ astrakhan_area = { #5
 }
 
 lower_don_area = { #4
-	288 467 1971 2409
+	467 1971 2409
 }
 
 kazan_area = { #3
@@ -909,15 +925,15 @@ saratov_area = { #3
 ########################################
 
 silesia_area = { #4
-	263 264 2966 4238 4723
+	966 4238 4723
 }
 
 bohemia_area = { #5
-	 266 2968 2970 4725 4724
+	2968 2970 4725 4724
 }
 
 erzgebirge_area = { #3
-	267 1771 2967
+	1771 2967
 }
 
 lusatia_area = { #3
@@ -925,7 +941,7 @@ lusatia_area = { #3
 }
 
 moravia_area = {
-	265 4237 4726
+	4237 4726
 }
 
 south_saxony_area = { #4
@@ -1099,7 +1115,7 @@ wallachia_area = { #5
 }
 
 moldavia_area = { #5
-	268 1756 2405 4529 4530
+	1756 2405 4529 4530
 }
 
 transylvania_area = { #4 #Northern Transylvania

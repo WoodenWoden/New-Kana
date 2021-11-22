@@ -1,9 +1,10 @@
-add_core = BIS
-owner = BIS
-controller = BIS
+add_core = LOM
+add_core = PEL
+owner = PEL
+controller = PEL
 
-capital = "Gugo"
-culture = bistan
+capital = "Tamhe"
+culture = gmeos
 religion = nopt
 trade_goods = grain
 base_tax = 1

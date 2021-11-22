@@ -1,9 +1,10 @@
-add_core = WUG
-owner = WUG
-controller = WUG
+add_core = PEN
+add_core = PEL
+owner = PEL
+controller = PEL
 
-capital = "Tuslan"
-culture = luoc
+capital = "Crepo"
+culture = nanim
 religion = nopt
 trade_goods = grain
 base_tax = 1

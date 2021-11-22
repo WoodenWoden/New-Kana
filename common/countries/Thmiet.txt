@@ -55,10 +55,16 @@ ship_names = {
 
 army_names = {
 	"Chone se Thmiet"
+	
+	"Chone se Sasab"
+	
 	"Chone se Sathem"
 }
 
 fleet_names = {
 	"Stelli se Thmiet"
+	
+	"Stelli se Sasab"
+	
 	"Stelli se Sathem"
 }

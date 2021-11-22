@@ -7,7 +7,7 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
-cuitic = {
+low_cuitic = {
 	graphical_culture = easterngfx
 	
 	male_names = {
@@ -24,24 +24,26 @@ cuitic = {
 		Raesalu
 	}
 	dynasty_names = {
-		"s'Arouw"
+		"s'Arouw" "s'Asiet"
 		"se Bist" "se Bmein" "se Brocie" "se Bru" "se Bu"
-		"se Cir" "se Co" "se Cripu"
+		"se Cbaso" "se Cir" "se Cmer" "se Co" "se Cripu" "se Cromtur" "se Cuite"
 		"se Dei" "se Dimir" "se Duslan"
-		"s'Eip"
+		"s'Eip" "s'Enec"
 		"se Galdban" "se Gipol" "se Gsat" "se Gugo"
-		"se Hactra" "se Hom" "se Hesgi"
+		"se Hactra" "se Hesgi" "se Hoi" "se Hom" "se Huocuo"
 		"s'Ilid"
 		"se Lom" "se Luct" "se Luic" "se Luta" "se Lwost"
-		"s'Obn" "s'Oncia"
-		"se Pen" "se Penlom" "se Piull"
-		"se Raihnun" "se Rancalo"
-		"se Sasab" "se Satem" "se Sesla"
-		"se Tmei" "se Tmiet" "se Trah" "se Trom" "se Trie" "se Tseod"
-		"se Weor" "se Wug"
+		"se Mon" "se Moucatde"
+		"se Nawio"
+		"s'Obn" "s'Obnoc" "s'Oncia" "s'Onig"
+		"se Pen" "se Penlom" "se Pius"
+		"se Rainun" "se Rancalo" "se Rit"
+		"se Sasab" "se Satem" "se Seasao" "se Sesla" "se Surung"
+		"se Tamhi" "se Teccuo" "se Tmei" "se Tmiet" "se Trom" "se Trang" "se Trie" "se Tseod" "se Tuliba"
+		"se Wen" "se Weor" "se Wowra" "se Wimt" "se Wug"
 	}
 	
-	bistan = {
+	adamannat = {
 		primary = BIS
 		male_names = {
 			Dam
@@ -51,15 +53,15 @@ cuitic = {
 			Nilem
 		}
 		dynasty_names = {
-			"se Demir"
-			"se Ham"
-			"se Rainon" "se Ram"
-			"se Seod"
-			"se Wost"
+			"s'Ancia"
+			"se Galban"
+			"se Mei"
+			"se Ram" "se Rie"
+			"se Sat" "se Seod"
 		}
 	}
 	
-	loman = {
+	gmeos = {
 		primary = LOM
 		male_names = {
 			Aram
@@ -74,43 +76,20 @@ cuitic = {
 			Rasalo
 		}
 		dynasty_names = {
-			"s'Aib" "s'Arauf"
-			"sa Bracea" "sa Bro"
-			"sa Ca" "sa Cir" "sa Crebo"
-			"sa Faor"
-			"sa Hagdra"
-			"sa Loig" "sa Lom"
-			"s'Obn"
-			"sa Peull"
-			"sa Rangala"
-			"sa Trah"
+			"s'Aset"
+			"sa Cbasa" "sa Cmer" "sa Coeda"
+			"s'Aneg" "s'Anig"
+			"sa Fimt" "sa Fofra"
+			"sa Hoagoa"
+			"sa Lom"
+			"sa Maogadda" "sa Mon"
+			"sa Rid"
+			"sa Sasa" "sa Sorung"
+			"sa Tamhe" "sa Teggoa" "sa Trang"
 		}
 	}
 	
-	penan = {
-		primary = PEN
-		male_names = {
-			Aram
-			Curce
-			Gwonen
-			Medih
-		}
-		female_names = {
-			Nelim
-			Rasalo
-		}
-		dynasty_names = {
-			"sa Dae"
-			"sa Galdwan" "sa Gsat"
-			"sa Luta"
-			"s'Oncea"
-			"sa Pen"
-			"sa Sesla"
-			"sa Tmae" "sa Trea"
-		}
-	}
-	
-	wugan = {
+	luoc = {
 		primary = WUG
 		male_names = {
 			Chulchi
@@ -123,9 +102,37 @@ cuitic = {
 			Laesalu
 		}
 		dynasty_names = {
+			"se Chlomthul" "se Chuithe" "se Cuco"
+			"se Lainun"
+			"s'Om"
 			"se Pmein"
 			"se Sathem"
-			"se Thmiet"
+			"se Temir" "se Thmiet" "se Tuslan"
+		}
+	}
+	
+	nanim = {
+		primary = PEN
+		male_names = {
+			Aram
+			Curce
+			Gwonen
+			Medih
+		}
+		female_names = {
+			Nelim
+			Rasalo
+		}
+		dynasty_names = {
+			"s'Aip" "s'Arauw"
+			"sa Bracea" "sa Bro"
+			"sa Ca" "sa Coeta" "sa Crepo"
+			"sa Hacsra" "sa Hae"
+			"sa Loic"
+			"sa Nawea"
+			"sa Pen" "sa Peus"
+			"sa Rancala"
+			"sa Toleba"
 		}
 	}
 }

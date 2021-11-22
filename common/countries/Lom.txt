@@ -58,23 +58,33 @@ ship_names = {
 army_names = {
 	"Cana sa Lom"
 	
-	"Cana sa Bracea"
-	"Cana sa Crebo"
-	"Cana sa Faor"
-	"Cana sa Loig"
-	"Cana s'Obn"
-	"Cana sa Peull"
-	"Cana sa Trah"
+	"Cana s'Aneg" "Cana s'Ased"
+	"Cana sa Cbasa"
+	"Cana sa Hoagoa"
+	"Cana sa Maogadda" "Cana sa Mon"
+	"Cana sa Rid"
+	"Cana sa Sasa"
+	
+	"Cana s'Anig"
+	"Cana sa Cmer"
+	"Cana sa Fimt" "Cana sa Fofra"
+	"Cana sa Sorung"
+	"Cana sa Tamhe" "Cana sa Teggoa" "Cana sa Trang"
 }
 
 fleet_names = {
 	"Stelle sa Lom"
 	
-	"Stelle sa Bracea"
-	"Stelle sa Crebo"
-	"Stelle sa Faor"
-	"Stelle sa Loig"
-	"Stelle s'Obn"
-	"Stelle sa Peull"
-	"Stelle sa Trah"
+	"Stelle s'Aneg" "Stelle s'Ased"
+	"Stelle sa Cbasa"
+	"Stelle sa Hoagoa"
+	"Stelle sa Maogadda" "Stelle sa Mon"
+	"Stelle sa Rid"
+	"Stelle sa Sasa"
+	
+	"Stelle s'Anig"
+	"Stelle sa Cmer"
+	"Stelle sa Fimt" "Stelle sa Fofra"
+	"Stelle sa Sorung"
+	"Stelle sa Tamhe" "Stelle sa Teggoa" "Stelle sa Trang"
 }

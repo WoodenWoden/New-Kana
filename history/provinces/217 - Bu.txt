@@ -3,7 +3,7 @@ owner = BIS
 controller = BIS
 
 capital = "Seod"
-culture = bistan
+culture = adamannat
 religion = nopt
 trade_goods = grain
 base_tax = 1

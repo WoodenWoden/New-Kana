@@ -8,10 +8,10 @@ random_new_world_region = {
 
 cuite_region = {
 	areas = {
+		cromtur_area
 		ledni_area
-		pmun_area
 		prosaca_area
-		south_lacan_area
+		sursid_area
 	}
 }
 

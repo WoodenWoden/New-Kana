@@ -1,10 +1,10 @@
-add_core = LOM
+add_core = PEN
 add_core = PEL
 owner = PEL
 controller = PEL
 
 capital = "Bracea"
-culture = loman
+culture = nanim
 religion = nopt
 trade_goods = grain
 base_tax = 1
