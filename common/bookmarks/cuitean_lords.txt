@@ -1,0 +1,16 @@
+bookmark = {
+	name = "CUITEAN_LORDS"
+	desc = "CUITEAN_LORDS_DESC"
+	date = 1444.1.1
+	
+	center = 210
+	default = yes
+	
+	country = BIS
+	country = LOM
+	country = PEN
+	country = WUG
+	
+	easy_country = LOM
+	easy_country = PEN
+}
