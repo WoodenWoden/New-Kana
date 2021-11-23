@@ -4,3 +4,17 @@ mercantilism = 25
 technology_group = eastern
 religion = nopt
 primary_culture = gmeos
+add_accepted_culture = nanim
+
+historical_friend = PNE
+
+1411.6.9 = {
+	monarch = {
+		name = "Aram"
+		dynasty = "Lom"
+		birth_date = 1411.6.9
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}

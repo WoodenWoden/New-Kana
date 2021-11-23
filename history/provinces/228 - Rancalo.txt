@@ -1,7 +1,6 @@
 add_core = PNE
-add_core = PEL
-owner = PEL
-controller = PEL
+owner = PNE
+controller = PNE
 
 capital = "Loic"
 culture = nanim
