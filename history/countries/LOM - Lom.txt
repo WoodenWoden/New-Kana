@@ -5,6 +5,7 @@ technology_group = eastern
 religion = nopt
 primary_culture = gmeos
 add_accepted_culture = nanim
+capital = 232 # Moucatde
 
 historical_friend = PNE
 
