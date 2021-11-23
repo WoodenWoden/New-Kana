@@ -50,35 +50,13 @@ ship_names = {
 
 
 army_names = {
-	"Cane se Bist"
+	"Cane Bist"
 	
-	"Cane se Ancia"
-	"Cane se Bu"
-	"Delli se Cir"
-	"Cane se Dei"
-	"Cane se Luta"
-	"Cane se Ram" "Cane se Rie"
-	
-	"Cane se Galban"
-	"Cane se Hesgi"
-	"Cane se Mei"
-	"Cane se Sat" "Cane se Seod" "Cane se Sesla"
-	"Cane se Weor"
+	"Cane $PROVINCE$"
 }
 
 fleet_names = {
-	"Delli se Bist"
+	"Delli Bist"
 	
-	"Delli se Ancia"
-	"Delli se Bu"
-	"Delli se Cir"
-	"Delli se Dei"
-	"Delli se Luta"
-	"Delli se Ram" "Delli se Rie"
-	
-	"Delli se Galban"
-	"Delli se Hesgi"
-	"Delli se Mei"
-	"Delli se Sat" "Delli se Seod" "Delli se Sesla"
-	"Delli se Weor"
+	"Delli $PROVINCE$"
 }

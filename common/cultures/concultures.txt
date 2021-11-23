@@ -24,23 +24,23 @@ low_cuitic = {
 		Raesalu
 	}
 	dynasty_names = {
-		"s'Arouw" "s'Asiet"
-		"se Bist" "se Bmein" "se Brocie" "se Bru" "se Bu"
-		"se Cbaso" "se Cir" "se Cmer" "se Co" "se Cripu" "se Cromtur" "se Cuite"
-		"se Dei" "se Dimir" "se Duslan"
-		"s'Eip" "s'Enec"
-		"se Galdban" "se Gipol" "se Gsat" "se Gugo"
-		"se Hactra" "se Hesgi" "se Hoi" "se Hom" "se Huocuo"
-		"s'Ilid"
-		"se Lom" "se Luct" "se Luic" "se Luta" "se Lwost"
-		"se Mon" "se Moucatde"
-		"se Nawio"
-		"s'Obn" "s'Obnoc" "s'Oncia" "s'Onig"
-		"se Pen" "se Penlom" "se Pius"
-		"se Rainun" "se Rancalo" "se Rit"
-		"se Sasab" "se Satem" "se Seasao" "se Sesla" "se Surung"
-		"se Tamhi" "se Teccuo" "se Tmei" "se Tmiet" "se Trom" "se Trang" "se Trie" "se Tseod" "se Tuliba"
-		"se Wen" "se Weor" "se Wowra" "se Wimt" "se Wug"
+		Arouw Asiet
+		Bist Bmein Brocie Bru Bu
+		Cbaso Cir Cmer Co Cripu Cromtur Cuite
+		Dei Dimir Duslan
+		Eip Enec
+		Galdban Gipol Gsat Gugo
+		Hactra Hesgi Hoi Hom Huocuo
+		Ilid
+		Lom Luct Luic Luta Lwost
+		Mon Moucatde
+		Nawio
+		Obn Obnoc Oncia Onig
+		Pen Penlom Pius
+		Rainun Rancalo Rit
+		Sasab Satem Seasao Sesla Surung
+		Tamhi Teccuo Tmei Tmiet Trom Trang Trie Tseod Tuliba
+		Wen Weor Wowra Wimt Wug
 	}
 	
 	adamannat = {
@@ -53,11 +53,11 @@ low_cuitic = {
 			Nilem
 		}
 		dynasty_names = {
-			"s'Ancia"
-			"se Galban"
-			"se Mei"
-			"se Ram" "se Rie"
-			"se Sat" "se Seod"
+			Ancia
+			Galban
+			Mei
+			Ram Rie
+			Sat Seod
 		}
 	}
 	
@@ -76,16 +76,15 @@ low_cuitic = {
 			Rasalo
 		}
 		dynasty_names = {
-			"s'Aset"
-			"sa Cbasa" "sa Cmer" "sa Coeda"
-			"s'Aneg" "s'Anig"
-			"sa Fimt" "sa Fofra"
-			"sa Hoagoa"
-			"sa Lom"
-			"sa Maogadda" "sa Mon"
-			"sa Rid"
-			"sa Sasa" "sa Sorung"
-			"sa Tamhe" "sa Teggoa" "sa Trang"
+			Aset
+			Cbasa Coeda
+			Aneg Anig
+			Fimt Fofra
+			Hoagoa
+			Maogadda
+			Rid
+			Sasa Sorung
+			Tamhe Teggoa
 		}
 	}
 	
@@ -102,12 +101,12 @@ low_cuitic = {
 			Laesalu
 		}
 		dynasty_names = {
-			"se Chlomthul" "se Chuithe" "se Cuco"
-			"se Lainun"
-			"s'Om"
-			"se Pmein"
-			"se Sathem"
-			"se Temir" "se Thmiet" "se Tuslan"
+			Chlomthul Chuithe Cuco
+			Lainun
+			Om
+			Pmein
+			Sathem
+			Temir Thmiet Tuslan
 		}
 	}
 	
@@ -124,15 +123,15 @@ low_cuitic = {
 			Rasalo
 		}
 		dynasty_names = {
-			"s'Aip" "s'Arauw"
-			"sa Bracea" "sa Bro"
-			"sa Ca" "sa Coeta" "sa Crepo"
-			"sa Hacsra" "sa Hae"
-			"sa Loic"
-			"sa Nawea"
-			"sa Pen" "sa Peus"
-			"sa Rancala"
-			"sa Toleba"
+			Aip Arauw
+			Bracea" Bro
+			Ca Coeta Crepo
+			Hacsra Hae
+			Loic
+			Nawea
+			Peus
+			Rancala
+			Toleba
 		}
 	}
 }

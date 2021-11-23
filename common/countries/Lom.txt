@@ -56,35 +56,13 @@ ship_names = {
 
 
 army_names = {
-	"Cana sa Lom"
+	"Cana Lom"
 	
-	"Cana s'Aneg" "Cana s'Ased"
-	"Cana sa Cbasa"
-	"Cana sa Hoagoa"
-	"Cana sa Maogadda" "Cana sa Mon"
-	"Cana sa Rid"
-	"Cana sa Sasa"
-	
-	"Cana s'Anig"
-	"Cana sa Cmer"
-	"Cana sa Fimt" "Cana sa Fofra"
-	"Cana sa Sorung"
-	"Cana sa Tamhe" "Cana sa Teggoa" "Cana sa Trang"
+	"Cana $PROVINCE$"
 }
 
 fleet_names = {
-	"Stelle sa Lom"
+	"Stelle Lom"
 	
-	"Stelle s'Aneg" "Stelle s'Ased"
-	"Stelle sa Cbasa"
-	"Stelle sa Hoagoa"
-	"Stelle sa Maogadda" "Stelle sa Mon"
-	"Stelle sa Rid"
-	"Stelle sa Sasa"
-	
-	"Stelle s'Anig"
-	"Stelle sa Cmer"
-	"Stelle sa Fimt" "Stelle sa Fofra"
-	"Stelle sa Sorung"
-	"Stelle sa Tamhe" "Stelle sa Teggoa" "Stelle sa Trang"
+	"Stelle $PROVINCE$"
 }

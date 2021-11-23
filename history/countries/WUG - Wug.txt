@@ -10,14 +10,14 @@ fixed_capital = 211 # West Wug
 1429.12.6 = {
 	monarch = {
 		name = "Elam"
-		dynasty = "se Luct"
+		dynasty = "Luct"
 		birth_date = 1429.12.6
 		adm = 1
 		dip = 2
 		mil = 6
 		
 		leader = {
-			name = "Elam se Luct"
+			name = "Elam Luct"
 			type = general
 			fire = 3
 			shock = 4
