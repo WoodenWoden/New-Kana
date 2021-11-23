@@ -8,9 +8,9 @@ bookmark = {
 	
 	country = BIS
 	country = LOM
-	country = PEN
+	country = PNE
 	country = WUG
 	
 	easy_country = LOM
-	easy_country = PEN
+	easy_country = PNE
 }
