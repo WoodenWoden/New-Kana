@@ -180,7 +180,7 @@ takua = {
 			Sagapano
 			Sanko
 			Tama
-			Taro
+			Talo
 			Vanka
 		}
 		female_names = {
@@ -200,6 +200,48 @@ takua = {
 			Lassa
 			Mak
 			Malakas
+			Mango
+			Megakk
+			Mokagana
+			Nga
+			Ngan
+			Nuankha
+			Pakana
+			Sakapan
+		}
+	}
+	sari = {
+		primary = MAO
+		male_names = {
+			Ekha
+			Garanamasa
+			Mada
+			Maganda
+			Mara
+			Pagma
+			Sagapano
+			Sanko
+			Tama
+			Taro
+			Vanka
+		}
+		female_names = {
+			Baganda
+			Bako
+			Barihe
+			Eziina
+			Harokana
+			Haronga
+			Kamma
+			Nawa
+			Tepka
+			Verak
+		}
+		dynasty_names = {
+			Karbu
+			Rassa
+			Mak
+			Marakas
 			Mango
 			Megakk
 			Mokagana
