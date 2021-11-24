@@ -8,6 +8,7 @@ bookmark = {
 	
 	country = BIS
 	country = LOM
+	country = NAY
 	country = PNE
 	country = WUG
 	

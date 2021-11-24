@@ -19,14 +19,4 @@ historical_friend = LOM
 		dip = 2
 		mil = 1
 	}
-	heir = {
-		name = "Lam"
-		dynasty = "Lom"
-		birt_date = 1439.1.20
-		death_date = 1461.12.9
-		claim = 70
-		adm = 4
-		dip = 1
-		mil = 2
-	}
 }
