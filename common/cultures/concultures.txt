@@ -26,7 +26,7 @@ low_cuitic = {
 	dynasty_names = {
 		Arouw Asiet
 		Bist Bmein Brocie Bru Bu
-		Cbaso Cir Cmer Co Cripu Cromtur Cuite
+		Cbaso Cir Cmer Co Cripu Cuite
 		Dei Dimir Duslan
 		Eip Enec
 		Galdban Gipol Gsat Gugo
@@ -34,12 +34,12 @@ low_cuitic = {
 		Ilid
 		Lom Luct Luic Luta Lwost
 		Mon Moucatde
-		Nawio
+		Nattwu Nawio
 		Obn Obnoc Oncia Onig
 		Pen Penlom Pius
 		Rainun Rancalo Rit
-		Sasab Satem Seasao Sesla Surung
-		Tamhi Teccuo Tmei Tmiet Trom Trang Trie Tseod Tuliba
+		Sasab Satem Seasao Sesla Surun
+		Tamhi Teccuo Tmei Tmiet Trom Trant Trie Tseod Tuliba
 		Wen Weor Wowra Wimt Wug
 	}
 	
@@ -83,7 +83,7 @@ low_cuitic = {
 			Hoagoa
 			Maogadda
 			Rid
-			Sasa Sorung
+			Sasa Sorun
 			Tamhe Teggoa
 		}
 	}
@@ -134,51 +134,68 @@ low_cuitic = {
 			Toleba
 		}
 	}
+	
+	psemer = {
+		primary = NAW
+		male_names = {
+			Ciri
+			Gwinen
+			Leb
+			Sam
+		}
+		female_names = {
+			Resalu
+		}
+		dynasty_names = {
+			Cite
+			Natwu
+		}
+	}
 }
 
 takua = {
 	graphical_culture = polynesiangfx
-
+	
 	sali = {
-		primary = KAL
+		primary = KLA
 		male_names = {
-			Taro
-			Sanko
-			Pagma
-			Mada
-			Galanamasa
 			Ekha
+			Galanamasa
+			Mada
 			Maganda
-			Sagapano
 			Mala
-			Vanka
+			Pagma
+			Sagapano
+			Sanko
 			Tama
+			Taro
+			Vanka
 		}
 		female_names = {
-			Velak
-			Tepka
 			Baganda
 			Bako
 			Balihe
-			Halokana
 			Eziina
+			Halokana
 			Halonga
-			Nawa
 			Kamma
+			Nawa
+			Tepka
+			Velak
 		}
 		dynasty_names = {
-			Pakana
-			Sakapan
 			Kalbu
-			Mokagana
-			Megakk
 			Lassa
 			Mak
 			Malakas
 			Mango
+			Megakk
+			Mokagana
 			Nga
 			Ngan
 			Nuankha
+			Pakana
+			Sakapan
 		}
 	}
 }

@@ -4,7 +4,7 @@ mercantilism = 25
 technology_group = eastern
 religion = nopt
 primary_culture = nanim
-add_accepted_culture = gmeoss
+add_accepted_culture = gmeos
 capital = 230 # Co
 
 historical_friend = LOM
