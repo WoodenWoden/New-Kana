@@ -155,47 +155,47 @@ low_cuitic = {
 
 takua = {
 	graphical_culture = polynesiangfx
-
+	
 	sali = {
-		primary = KAL
+		primary = KLA
 		male_names = {
-			Taro
-			Sanko
-			Pagma
-			Mada
-			Galanamasa
 			Ekha
+			Galanamasa
+			Mada
 			Maganda
-			Sagapano
 			Mala
-			Vanka
+			Pagma
+			Sagapano
+			Sanko
 			Tama
+			Taro
+			Vanka
 		}
 		female_names = {
-			Velak
-			Tepka
 			Baganda
 			Bako
 			Balihe
-			Halokana
 			Eziina
+			Halokana
 			Halonga
-			Nawa
 			Kamma
+			Nawa
+			Tepka
+			Velak
 		}
 		dynasty_names = {
-			Pakana
-			Sakapan
 			Kalbu
-			Mokagana
-			Megakk
 			Lassa
 			Mak
 			Malakas
 			Mango
+			Megakk
+			Mokagana
 			Nga
 			Ngan
 			Nuankha
+			Pakana
+			Sakapan
 		}
 	}
 }
