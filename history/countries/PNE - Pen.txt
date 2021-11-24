@@ -9,7 +9,7 @@ capital = 230 # Co
 
 historical_friend = LOM
 
-1408.3.2 = {
+1443.1.1 = {
 	monarch = {
 		name = "Nelim"
 		dynasty = "Hacsra"
