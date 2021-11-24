@@ -8,7 +8,8 @@ capital = 337
 
 1429.1.1 = {
 	monarch = {
-		name = "Karo Palaka"
+		name = "Karo"
+		dynasty = "Palaka"
 		adm = 4
 		dip = 6
 		mil = 5
