@@ -35,10 +35,10 @@ low_cuitic = {
 		Liccana Lom Luali Luct Luic Luta Lwost
 		Matsi Mon Moucatde
 		Nattwu Nawio
-		Obn Obnoc Oncia Onig
+		Obn Obnoc Ohai Oncia Onig
 		Pen Penlom Pirbra Pius Pnoui
 		Rainun Rancalo Rit
-		Sasab Satem Seasao Sesla Sruwt Surun
+		Sasab Satem Seasao Sesla Snol Sruwt Surun
 		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tseod Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
@@ -156,6 +156,7 @@ low_cuitic = {
 			Licana Lueli
 			Metsi
 			Natyu
+			Ohei
 			Pirra Pnei
 			Sruy
 			Tesci
