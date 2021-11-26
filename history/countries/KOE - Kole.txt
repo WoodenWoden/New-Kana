@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = polynesian_tech
+religion = nagamalu
+primary_culture = sali
+capital = 349
+
+1429.1.1 = {
+	monarch = {
+		name = "Taka"
+		dynasty = "Madalaganada"
+		adm = 1
+		dip = 3
+		mil = 5
+	}
+}
