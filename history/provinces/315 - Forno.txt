@@ -1,7 +1,7 @@
-#309 - Agede
+#315 - Forno
 
-capital = "Agede"
-culture = sali
+capital = "Forno"
+culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

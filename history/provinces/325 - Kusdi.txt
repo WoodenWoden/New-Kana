@@ -1,7 +1,7 @@
-# 310 - Mavnada
+#325 - Kusdi
 
-capital = "Mavnada"
-culture = sali
+capital = "Kusdi"
+culture = soloka
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

@@ -1,7 +1,7 @@
-#314 - Falaganaga
+#313 - Surokolo
 
-capital = "Falaganaga"
-culture = sali
+capital = "Surokolo"
+culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

@@ -252,4 +252,86 @@ takua = {
 			Nakapan
 		}
 	}
+	soloka = {
+		male_names = {
+			Ikho
+			Golonomoso
+			Medo
+			Mogono
+			Molo
+			Pogmi
+			Sogoponu
+			Sonku
+			Tomo
+			Tolu
+			Uonko
+		}
+		female_names = {
+			Bogondo
+			Boku
+			Bolyhika
+			Iziyno
+			Holukono
+			Holungo
+			Kommo
+			Nowo
+			Tipko
+			Uilok
+		}
+		dynasty_names = {
+			Kolba
+			Losso
+			Mok
+			Molokos
+			Mongu
+			Migokk
+			Mukogono
+			Ngo
+			Ngon
+			Nuonkho
+			Pokono
+			Sokopon
+		}
+	}
+	gori = {
+		male_names = {
+			Ekho
+			Goronomoso
+			Modo
+			Mogondo
+			Mo
+			Pogmono
+			Sogopono
+			Sonko
+			Tomo
+			Toro
+			Vonko
+		}
+		female_names = {
+			Bogondo
+			Boko
+			Borihe
+			Eziina
+			Horokono
+			Horongo
+			Kommo
+			Nouo
+			Tepko
+			Verok
+		}
+		dynasty_names = {
+			Korbu
+			Losso
+			No
+			Morokos
+			Mongo
+			Megokk
+			Mokogono
+			Ngo
+			Ngon
+			Nuonkho
+			Pokono
+			Sokopon
+		}
+	}
 }

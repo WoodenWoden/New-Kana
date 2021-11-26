@@ -1,7 +1,7 @@
-#316 - Kakala
+#319 - Morokofo
 
-capital = "Kakala"
-culture = sali
+capital = "Morokofo"
+culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

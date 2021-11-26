@@ -1,7 +1,7 @@
-#313 - Sulakala
+#314 - Forogonogo
 
-capital = "Sulakala"
-culture = sali
+capital = "Forogonogo"
+culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

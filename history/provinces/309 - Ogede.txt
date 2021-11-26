@@ -1,7 +1,7 @@
-#315 - Falna
+#309 - Ogede
 
-capital = "Falna"
-culture = sali
+capital = "Ogede"
+culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

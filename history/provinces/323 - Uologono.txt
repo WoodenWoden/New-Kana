@@ -1,7 +1,7 @@
-#312 - Beleze
+#323 - Uologono
 
-capital = "Beleze"
-culture = sali
+capital = "Uologono"
+culture = soloka
 religion = nagamalu
 trade_goods = grain
 base_tax = 1
