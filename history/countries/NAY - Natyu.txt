@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = psemer
+capital = 246 # Waert
+
+1443.1.1 = {
+	monarch = {
+		name = "Gyinen"
+		dynasty = "Busadam"
+		birth_date = 1422.3.5
+		adm = 2
+		dip = 4
+		mil = 3
+		
+		leader = {
+			name = "Gyinen Busadam"
+			type = general
+			fire = 2
+			shock = 2
+			manuever = 1
+			siege = 2
+		}
+	}
+}

@@ -7,7 +7,7 @@ primary_culture = luoc
 capital = 210 # East Wug
 fixed_capital = 211 # West Wug
 
-1429.12.6 = {
+1443.1.1 = {
 	monarch = {
 		name = "Elam"
 		dynasty = "Luct"

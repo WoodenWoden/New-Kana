@@ -6,7 +6,7 @@ religion = nopt
 primary_culture = adamannat
 capital = 214 # Ilid
 
-1410.12.11 = {
+1443.1.1 = {
 	monarch = {
 		name = "Curci"
 		dynasty = "Ram"

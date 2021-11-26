@@ -25,22 +25,23 @@ low_cuitic = {
 	}
 	dynasty_names = {
 		Arouw Asiet
-		Bist Bmein Brocie Bru Bu
-		Cbaso Cir Cmer Co Cripu Cuite
-		Dei Dimir Duslan
+		Bist Bmein Brocie Bru Bu Busaddtam
+		Cai Cbaso Cir Cirwoita Clom Cmer Co Cripu Cuite
+		Dei Dimir Dliwist Doat Duslan
 		Eip Enec
-		Galdban Gipol Gsat Gugo
+		Galdban Gipol Grugir Gsat Gugo
 		Hactra Hesgi Hoi Hom Huocuo
-		Ilid
-		Lom Luct Luic Luta Lwost
-		Mon Moucatde
+		Ilid Iloect Imuol
+		Liccana Lom Luali Luct Luic Luta Lwost
+		Matsi Mon Moucatde
 		Nattwu Nawio
 		Obn Obnoc Oncia Onig
-		Pen Penlom Pius
+		Pen Penlom Pirbra Pius Pnoui
 		Rainun Rancalo Rit
-		Sasab Satem Seasao Sesla Surun
-		Tamhi Teccuo Tmei Tmiet Trom Trant Trie Tseod Tuliba
-		Wen Weor Wowra Wimt Wug
+		Sasab Satem Seasao Sesla Sruwt Surun
+		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tseod Tuliba
+		Ulhuen
+		Waert Wen Weor Wowra Wimt Wug
 	}
 	
 	adamannat = {
@@ -136,10 +137,10 @@ low_cuitic = {
 	}
 	
 	psemer = {
-		primary = NAW
+		primary = NAY
 		male_names = {
 			Ciri
-			Gwinen
+			Gyinen
 			Leb
 			Sam
 		}
@@ -147,8 +148,19 @@ low_cuitic = {
 			Resalu
 		}
 		dynasty_names = {
-			Cite
-			Natwu
+			Busadam
+			Cei Ciryeita Cite
+			Dliyis
+			Grigir
+			Ilec
+			Licana Lueli
+			Metsi
+			Natyu
+			Pirra Pnei
+			Sruy
+			Tesci
+			Ulhien
+			Yer
 		}
 	}
 }

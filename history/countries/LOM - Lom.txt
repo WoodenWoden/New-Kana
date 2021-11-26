@@ -9,7 +9,7 @@ capital = 232 # Moucatde
 
 historical_friend = PNE
 
-1411.6.9 = {
+1443.1.1 = {
 	monarch = {
 		name = "Aram"
 		dynasty = "Lom"

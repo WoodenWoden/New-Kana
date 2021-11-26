@@ -12,8 +12,8 @@ monarch_names = {
 	"Dama" = 80
 	"Dem" = 60
 	"Eram" = 20
-	"Gwinen" = 50
-	"Gwunen" = 90
+	"Gwunen" = 50
+	"Gyinen" = 90
 	"Lam" = 90
 	"Leb" = 70
 	"Lebt" = 60
@@ -30,7 +30,7 @@ leader_names = {
 	Ciri Curci
 	Dama Dem
 	Eram
-	Gwinen Gwunen
+	Gwunen Gyinen
 	Lam Leb Lebt
 	Midih
 	Sam Samt
@@ -40,7 +40,7 @@ ship_names = {
 	Cirina Curcina
 	Damana Demna
 	Eramna
-	Gwinenna Gwunenna
+	Gwunenna Gyinenna
 	Lamna Lebna
 	Midina
 	Nilimna
@@ -50,13 +50,13 @@ ship_names = {
 
 
 army_names = {
-	"Cene Natwu"
+	"Cene Natyu"
 	
 	"Cene $PROVINCE$"
 }
 
 fleet_names = {
-	"Selli Natwu"
+	"Selli Natyu"
 	
 	"Selli $PROVINCE$"
 }
