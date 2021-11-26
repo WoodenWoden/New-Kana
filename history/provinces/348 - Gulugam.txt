@@ -1,11 +1,15 @@
 #346 - Gulugam
 
+add_core = KOE
+owner = KOE
+controller = KOE
+
 capital = "Gulugam"
 culture = sali
 religion = nagamalu
-trade_goods = grain
+trade_goods = fruit
 base_tax = 1
-base_production = 1
+base_production = 3
 base_manpower = 1
 hre = no
 is_city = yes

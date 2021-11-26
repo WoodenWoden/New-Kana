@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = polynesian_tech
+religion = nagamalu
+primary_culture = sali
+capital = 347
+
+1429.1.1 = {
+	monarch = {
+		name = "Malaka"
+		dynasty = "Saka"
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+}

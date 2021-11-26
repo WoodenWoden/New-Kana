@@ -1,11 +1,15 @@
 #346 - Ziodapest
 
+add_core = KOE
+owner = KOE
+controller = KOE
+
 capital = "Ziodapest"
 culture = sali
 religion = nagamalu
-trade_goods = fruit
-base_tax = 2
-base_production = 3
+trade_goods = iron
+base_tax = 4
+base_production = 5
 base_manpower = 1
 hre = no
 is_city = yes

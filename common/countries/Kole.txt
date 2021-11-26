@@ -1,0 +1,36 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 33  68  135 }
+
+revolutionary_colors = { 3 3 3 }
+
+monarch_names = {
+	"Taro" = 100
+	"Sanko" = 100
+	"Pagma" = 90
+	
+	"Velak" = -100
+	"Tepka" = -100
+}
+
+leader_names = {
+	Taro
+	Sanko
+	Tama Tem
+}
+
+ship_names = {
+	"Megakk san Akav"
+	"Malakas san Kangtiwn"
+}
+
+
+army_names = {
+	"$PROVINCE$ san Kamako" 
+}
+
+fleet_names = {
+	"$PROVINCE$ san Gatiwn"
+}
