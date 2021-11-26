@@ -1,7 +1,7 @@
-#346 - Kanao
+#346 - Konao
 
-capital = "Kanao"
-culture = sali
+capital = "Konao"
+culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1
