@@ -210,17 +210,17 @@ takua = {
 			Sakapan
 		}
 	}
-	sari = {
+	nari = {
 		primary = MAO
 		male_names = {
 			Ekha
-			Garanamasa
+			Garanamana
 			Mada
 			Maganda
 			Mara
 			Pagma
-			Sagapano
-			Sanko
+			Nagapano
+			Nanko
 			Tama
 			Taro
 			Vanka
@@ -239,9 +239,9 @@ takua = {
 		}
 		dynasty_names = {
 			Karbu
-			Rassa
+			Ranna
 			Mak
-			Marakas
+			Marakan
 			Mango
 			Megakk
 			Mokagana
@@ -249,7 +249,7 @@ takua = {
 			Ngan
 			Nuankha
 			Pakana
-			Sakapan
+			Nakapan
 		}
 	}
 }

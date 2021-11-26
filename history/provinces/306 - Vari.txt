@@ -1,7 +1,7 @@
-#306 - Vali
+#306 - Vari
 
-capital = "Vali"
-culture = sali
+capital = "Vari"
+culture = nari
 religion = nagamalu
 trade_goods = grain
 base_tax = 1

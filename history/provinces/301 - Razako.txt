@@ -1,7 +1,7 @@
-#304 - Meledanka
+#301 - Razako
 
-capital = "Meledanka"
-culture = sali
+capital = "Razako"
+culture = nari
 religion = nagamalu
 trade_goods = grain
 base_tax = 1
