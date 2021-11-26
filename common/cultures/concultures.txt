@@ -124,7 +124,7 @@ low_cuitic = {
 		}
 		dynasty_names = {
 			Aip Arauw
-			Bracea" Bro
+			Bracea Bro
 			Ca Coeta Crepo
 			Hacsra Hae
 			Loic

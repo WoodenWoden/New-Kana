@@ -1,7 +1,7 @@
 #317 - Sagla
 
 capital = "Sagla"
-culture = sali
+culture = sari
 religion = nagamalu
 trade_goods = grain
 base_tax = 1
