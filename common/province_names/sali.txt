@@ -45,3 +45,6 @@
 344 = "Makapang"
 345 = "Ngala"
 346 = "Kanao"
+347 = "Sasaka"
+348 = "Gulugam"
+349 = "Ziodapest"
