@@ -15,6 +15,13 @@ cuite_region = {
 		sursid_area
 	}
 }
+tanga_region = {
+	areas = {
+		hadalan_area
+		kokana_area
+		na_area
+	}
+}
 
 ########################################
 # EUROPE                               #

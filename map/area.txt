@@ -40,6 +40,21 @@ sursid_area = {
 	296
 }
 
+#Tanga
+
+hadalan_area = {
+	300
+	342 343 344 345 346
+}
+kokana_area = {
+	336 337
+	347 348 349
+}
+na_area = {
+	338 339
+	340 341
+}
+
 #Sea Areas:
 #No restriction on size.
 
