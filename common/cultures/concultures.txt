@@ -38,7 +38,7 @@ low_cuitic = {
 		Obn Obnoc Ohai Oncia Onig
 		Pen Penlom Pirbra Pius Pnoui
 		Rainun Rancalo Rit
-		Sasab Satem Seasao Seod Sesla Snol Sruwt Surun
+		Sasab Satem Seasao Seod Sesla Slen Snol Sruwt Surun
 		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
@@ -160,7 +160,7 @@ low_cuitic = {
 		}
 	}
 	samod = {
-		primary = NAY
+		primary = SEL
 		male_names = {
 			Cirgi
 			Gyinen
@@ -173,6 +173,7 @@ low_cuitic = {
 		}
 		dynasty_names = {
 			Cide
+			Slen
 		}
 	}
 }
