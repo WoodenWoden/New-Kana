@@ -44,7 +44,6 @@ low_cuitic = {
 		Waert Wen Weor Wowra Wimt Wug
 	}
 	adamannat = {
-		primary = BIS
 		male_names = {
 			Dam
 			Wonan
@@ -61,7 +60,6 @@ low_cuitic = {
 		}
 	}
 	gmeos = {
-		primary = LOM
 		male_names = {
 			Aram
 			Curge
@@ -87,7 +85,6 @@ low_cuitic = {
 		}
 	}
 	luoc = {
-		primary = WUG
 		male_names = {
 			Chulchi
 			Cwunen
@@ -108,7 +105,6 @@ low_cuitic = {
 		}
 	}
 	nanim = {
-		primary = PEN
 		male_names = {
 			Aram
 			Curce
@@ -132,7 +128,6 @@ low_cuitic = {
 		}
 	}
 	psemer = {
-		primary = NAY
 		male_names = {
 			Ciri
 			Gyinen
@@ -160,7 +155,6 @@ low_cuitic = {
 		}
 	}
 	samod = {
-		primary = SEL
 		male_names = {
 			Cirgi
 			Gyinen
@@ -173,7 +167,6 @@ low_cuitic = {
 		}
 		dynasty_names = {
 			Cide
-			Slen
 		}
 	}
 }
@@ -182,7 +175,6 @@ takua = {
 	graphical_culture = polynesiangfx
 	
 	sali = {
-		primary = KLA
 		male_names = {
 			Ekha
 			Galanamasa
@@ -224,7 +216,6 @@ takua = {
 		}
 	}
 	nari = {
-		primary = MAO
 		male_names = {
 			Ekha
 			Garanamana
