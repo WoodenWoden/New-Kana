@@ -1,0 +1,36 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 121  105  80 }
+
+revolutionary_colors = { 0 10 0 }
+
+monarch_names = {
+	"Toru" = 100
+	"Sonku" = 100
+	"Pogmo" = 90
+	
+	"Vilok" = -100
+	"Tipko" = -100
+}
+
+leader_names = {
+	Toru
+	Sonku
+	Tomo Tim
+}
+
+ship_names = {
+	"Migokk son Okov"
+	"Morokos son Kongtaun"
+}
+
+
+army_names = {
+	"$PROVINCE$ son Komoku" 
+}
+
+fleet_names = {
+	"$PROVINCE$ son Gotaun"
+}

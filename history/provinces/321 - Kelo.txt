@@ -1,12 +1,16 @@
 #321 - Kelo
 
+add_core = SAN
+owner = SAN
+controller = SAN
+
 capital = "Kelo"
 culture = sali
 religion = nagamalu
 trade_goods = grain
-base_tax = 1
+base_tax = 2
 base_production = 1
-base_manpower = 1
+base_manpower = 3
 hre = no
 is_city = yes
 

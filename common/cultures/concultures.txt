@@ -224,7 +224,6 @@ takua = {
 		}
 	}
 	nari = {
-		primary = MAO
 		male_names = {
 			Ekha
 			Garanamana
@@ -266,6 +265,7 @@ takua = {
 		}
 	}
 	soloka = {
+		primary = ORO
 		male_names = {
 			Ikho
 			Golonomoso
