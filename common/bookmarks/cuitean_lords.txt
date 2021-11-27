@@ -3,12 +3,13 @@ bookmark = {
 	desc = "CUITEAN_LORDS_DESC"
 	date = 1444.1.1
 	
-	center = 210
+	center = 215
 	default = yes
 	
 	country = BIS
 	country = LOM
 	country = NAY
+	country = PEL
 	country = PNE
 	country = WUG
 	
