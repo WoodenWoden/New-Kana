@@ -26,10 +26,10 @@ low_cuitic = {
 	dynasty_names = {
 		Arouw Asiet
 		Bist Bmein Brocie Bru Bu Busaddtam
-		Cai Cbaso Cir Cirwoita Clom Cmer Co Cripu Cuite
+		Cai Cir Cirwoita Clom Cmer Co Cripu Csat Cuite
 		Dei Dimir Dliwist Doat Duslan
 		Eip Enec
-		Galdban Gipol Grugir Gsat Gugo
+		Galdban Gbaso Gipol Grugir Gugo
 		Hactra Hesgi Hoi Hom Huocuo
 		Ilid Iloect Imuol
 		Liccana Lom Luali Luct Luic Luta Lwost
@@ -38,8 +38,8 @@ low_cuitic = {
 		Obn Obnoc Ohai Oncia Onig
 		Pen Penlom Pirbra Pius Pnoui
 		Rainun Rancalo Rit
-		Sasab Satem Seasao Sesla Snol Sruwt Surun
-		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tseod Tuliba
+		Sasab Satem Seasao Seod Sesla Snol Sruwt Surun
+		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
 	}
@@ -58,7 +58,7 @@ low_cuitic = {
 			Galban
 			Mei
 			Ram Rie
-			Sat Seod
+			Sat
 		}
 	}
 	
@@ -77,10 +77,10 @@ low_cuitic = {
 			Rasalo
 		}
 		dynasty_names = {
-			Aset
-			Cbasa Coeda
-			Aneg Anig
+			Aneg Anig Aset
+			Coeda
 			Fimt Fofra
+			Gbasa
 			Hoagoa
 			Maogadda
 			Rid
@@ -102,7 +102,7 @@ low_cuitic = {
 			Laesalu
 		}
 		dynasty_names = {
-			Chlomthul Chuithe Cuco
+			Chuithe Cuco
 			Lainun
 			Om
 			Pmein
