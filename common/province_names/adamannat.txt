@@ -32,6 +32,7 @@
 248 = "Cirwoita"
 249 = "Imuol"
 250 = "Liwist"
+251 = "Ohai"
 282 = "Pirra"
 287 = "Wan"
 288 = "Liccana"
