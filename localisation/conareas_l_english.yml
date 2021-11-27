@@ -1,4 +1,7 @@
 ﻿l_english:
+ akada_area: "Akada"
+ akada_area_name: "Akada"
+ akada_area_adj: "Akadan"
  ang_ladsa_area: "Ang Ladsa"
  ang_ladsa_area_name: "Ladsa"
  ang_ladsa_area_adj: "Ladsi"
@@ -11,6 +14,9 @@
  hadalan_area: "Hadalan"
  hadalan_area_name: "Hadalan"
  hadalan_area_adj: "Hadalani"
+ horo_area: "Horo"
+ horo_area_name: "Horo"
+ horo_area_adj: "Horan
  ledni_area: "Ledni"
  ledni_area_name: "Ledni"
  ledni_area_adj: "Lednan"

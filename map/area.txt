@@ -42,6 +42,9 @@ sursid_area = {
 
 #Tanga
 
+akada_area = {
+	301 302 303 304
+}
 ang_ladsa_area = {
 	324
 	332 333
@@ -49,6 +52,9 @@ ang_ladsa_area = {
 hadalan_area = {
 	300
 	342 343 344 345 346
+}
+horo_area = {
+	303 305 306 308
 }
 kokana_area = {
 	336 337

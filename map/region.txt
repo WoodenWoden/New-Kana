@@ -17,8 +17,10 @@ cuite_region = {
 }
 tanga_region = {
 	areas = {
+		akada_area
 		ang_ladsa_area
 		hadalan_area
+		horo_area
 		kokana_area
 		makalanasa_area
 		mazia_area
