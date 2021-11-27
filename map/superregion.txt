@@ -3,6 +3,9 @@
 east_niapti_superregion = {
 	cuite_region
 }
+north_niapti_superregion = {
+	tanga_region
+}
 
 india_superregion = {
 	bengal_region
