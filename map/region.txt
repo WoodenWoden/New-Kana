@@ -27,6 +27,7 @@ tanga_region = {
 		na_area
 		poko_area
 		sahaka_area
+		bolokbong_area
 	}
 }
 
