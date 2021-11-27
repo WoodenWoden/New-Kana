@@ -38,12 +38,11 @@ low_cuitic = {
 		Obn Obnoc Ohai Oncia Onig
 		Pen Penlom Pirbra Pius Pnoui
 		Rainun Rancalo Rit
-		Sasab Satem Seasao Seod Sesla Snol Sruwt Surun
+		Sasab Satem Seasao Seod Sesla Slen Snol Sruwt Surun
 		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
 	}
-	
 	adamannat = {
 		primary = BIS
 		male_names = {
@@ -61,7 +60,6 @@ low_cuitic = {
 			Sat
 		}
 	}
-	
 	gmeos = {
 		primary = LOM
 		male_names = {
@@ -88,7 +86,6 @@ low_cuitic = {
 			Tamhe Teggoa
 		}
 	}
-	
 	luoc = {
 		primary = WUG
 		male_names = {
@@ -110,7 +107,6 @@ low_cuitic = {
 			Temir Thmiet Tuslan
 		}
 	}
-	
 	nanim = {
 		primary = PEN
 		male_names = {
@@ -135,7 +131,6 @@ low_cuitic = {
 			Toleba
 		}
 	}
-	
 	psemer = {
 		primary = NAY
 		male_names = {
@@ -162,6 +157,23 @@ low_cuitic = {
 			Tesci
 			Ulhien
 			Yer
+		}
+	}
+	samod = {
+		primary = SEL
+		male_names = {
+			Cirgi
+			Gyinen
+			Lebd
+			Midi
+			Samd
+		}
+		female_names = {
+			Resalu
+		}
+		dynasty_names = {
+			Cide
+			Slen
 		}
 	}
 }
