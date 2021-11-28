@@ -4,14 +4,14 @@ mercantilism = 25
 technology_group = polynesian_tech
 religion = nagamalu
 primary_culture = sali
-capital = 337
+capital = 321
 
-1429.1.1 = {
+1419.5.11 = {
 	monarch = {
-		name = "Kalo"
+		name = "Karo"
 		dynasty = "Palaka"
-		adm = 4
-		dip = 6
+		adm = 3
+		dip = 2
 		mil = 5
 	}
 }

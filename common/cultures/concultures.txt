@@ -257,6 +257,7 @@ takua = {
 		}
 	}
 	soloka = {
+		primary = ORO
 		male_names = {
 			Ikho
 			Golonomoso

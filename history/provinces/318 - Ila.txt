@@ -1,5 +1,9 @@
 #318 - Ila
 
+add_core = SAN
+owner = SAN
+controller = SAN
+
 capital = "Ila"
 culture = sali
 religion = nagamalu
