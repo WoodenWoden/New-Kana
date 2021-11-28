@@ -1,12 +1,3 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new groups or cultures, make sure they are unique.
-#
-# Union tags do not suffer from the 'same_culture_group' tax penalty.
-# Primary tags are the first choice for rebel factions seeking cultural independence.
-#
-# graphical_culture = westerngfx
-# second_graphical_culture = muslimgfx (fallback if the first does not exist)
-
 low_cuitic = {
 	graphical_culture = easterngfx
 	
@@ -25,21 +16,21 @@ low_cuitic = {
 	}
 	dynasty_names = {
 		Arouw Asiet
-		Bist Bmein Brocie Bru Bu Busaddtam
-		Cai Cir Cirwoita Clom Cmer Co Cripu Csat Cuite
-		Dei Dimir Dliwist Doat Duslan
-		Eip Enec
+		Bati Be Bes Bist Bmein Bom Bora Boti Brocie Bru Bu Busaddtam
+		Cai Cir Cirwoita Clom Cmer Cnom Cnon Co Cripu Csat Ctew Cuite
+		Dei Dimir Dliwist Doat Don Duslan
+		Eca Eip Enec Es
 		Galdban Gbaso Gipol Grugir Gugo
 		Hactra Hesgi Hoi Hom Huocuo
 		Ilid Iloect Imuol
-		Liccana Lom Luali Luct Luic Luta Lwost
-		Matsi Mon Moucatde
+		Leap Liccana Lom Luali Luct Luic Luta Lwost
+		Matsi Min Mon Moucatde
 		Nattwu Nawio
 		Obn Obnoc Ohai Oncia Onig
-		Pen Penlom Pirbra Pius Pnoui
-		Rainun Rancalo Rit
-		Sasab Satem Seasao Seod Sesla Slen Snol Sruwt Surun
-		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tuliba
+		Pen Penlom Pes Pirbra Pius Plan Pnoui Praset
+		Ra Rainun Rancalo Rit Ros
+		Sac Sal Sasab Satem Seasao Seod Sesla Slen Snew Snol Soampiet Soc Srew Sruwt Surun
+		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tsea Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
 	}
@@ -166,7 +157,12 @@ low_cuitic = {
 			Resalu
 		}
 		dynasty_names = {
-			Cide
+			Bedi
+			Cide Ctey
+			Ega
+			Leab
+			Presed
+			Sag Sney Soembied Sog Srey
 		}
 	}
 }
