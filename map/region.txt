@@ -1,15 +1,10 @@
-# A province can only belong to one region!
-
-# random_new_world_region is used for RNW. Must be first in this list.
-random_new_world_region = {
-}
-
 # Niapti
 
 cuite_region = {
 	areas = {
 		cromtur_area
 		ledni_area
+		pmunocr_area
 		prosaca_area
 		south_lacan_area
 		sursid_area

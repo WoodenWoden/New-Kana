@@ -16,7 +16,7 @@ low_cuitic = {
 	}
 	dynasty_names = {
 		Arouw Asiet
-		Bati Be Bes Bist Bmein Bom Bora Boti Brocie Bru Bu Busaddtam
+		Bati Be Bes Bist Bmein Bom Bora Brocie Bru Bu Busaddtam
 		Cai Cir Cirwoita Clom Cmer Cnom Cnon Co Cripu Csat Ctew Cuite
 		Dei Dimir Dliwist Doat Don Duslan
 		Eca Eip Enec Es
@@ -27,7 +27,7 @@ low_cuitic = {
 		Matsi Min Mon Moucatde
 		Nattwu Nawio
 		Obn Obnoc Ohai Oncia Onig
-		Pen Penlom Pes Pirbra Pius Plan Pnoui Praset
+		Pen Penlom Pes Pirbra Pius Plan Pnoui Praset Pti
 		Ra Rainun Rancalo Rit Ros
 		Sac Sal Sasab Satem Seasao Seod Sesla Slen Snew Snol Soampiet Soc Srew Sruwt Surun
 		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tsea Tuliba

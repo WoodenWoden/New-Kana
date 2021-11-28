@@ -10,6 +10,7 @@ bookmark = {
 	country = LOM
 	country = NAY
 	country = PNE
+	country = THM
 	country = WUG
 	
 	easy_country = LOM
