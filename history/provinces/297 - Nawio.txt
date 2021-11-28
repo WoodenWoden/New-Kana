@@ -1,7 +1,3 @@
-add_core = PNE
-owner = PNE
-controller = PNE
-
 capital = "Obnoc"
 culture = nanim
 religion = nopt

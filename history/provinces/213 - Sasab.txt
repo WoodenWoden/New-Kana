@@ -1,7 +1,6 @@
 add_core = THM
-add_core = WUG
-owner = WUG
-controller = WUG
+owner = THM
+controller = THM
 
 capital = "Sathem"
 culture = luoc

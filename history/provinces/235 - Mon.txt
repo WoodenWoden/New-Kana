@@ -1,8 +1,4 @@
-add_core = LOM
-owner = LOM
-controller = LOM
-
-capital = "Sorung"
+capital = "Sorun"
 culture = gmeos
 religion = nopt
 trade_goods = grain

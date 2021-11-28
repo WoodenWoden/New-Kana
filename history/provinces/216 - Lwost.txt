@@ -1,7 +1,3 @@
-add_core = 	WUG
-owner = WUG
-controller = WUG
-
 capital = "Lainun"
 culture = luoc
 religion = nopt

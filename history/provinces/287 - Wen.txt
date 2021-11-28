@@ -1,7 +1,3 @@
-add_core = PNE
-owner = PNE
-controller = PNE
-
 capital = "Hae"
 culture = nanim
 religion = nopt

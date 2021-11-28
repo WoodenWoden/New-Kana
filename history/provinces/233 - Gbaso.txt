@@ -1,7 +1,3 @@
-add_core = LOM
-owner = LOM
-controller = LOM
-
 capital = "Tamhe"
 culture = gmeos
 religion = nopt

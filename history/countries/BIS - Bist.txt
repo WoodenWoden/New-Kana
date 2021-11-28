@@ -4,7 +4,7 @@ mercantilism = 25
 technology_group = eastern
 religion = nopt
 primary_culture = adamannat
-capital = 214 # Ilid
+capital = 219 # Dei
 
 1443.1.1 = {
 	monarch = {

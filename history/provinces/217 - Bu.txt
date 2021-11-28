@@ -1,7 +1,3 @@
-add_core = BIS
-owner = BIS
-controller = BIS
-
 capital = "Seod"
 culture = adamannat
 religion = nopt

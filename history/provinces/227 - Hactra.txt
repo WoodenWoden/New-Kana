@@ -1,7 +1,3 @@
-add_core = PNE
-owner = PNE
-controller = PNE
-
 capital = "Toleba"
 culture = nanim
 religion = nopt

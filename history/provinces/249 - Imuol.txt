@@ -1,7 +1,3 @@
-add_core = NAY
-owner = NAY
-controller = NAY
-
 capital = "Ilec"
 culture = psemer
 religion = nopt
