@@ -16,7 +16,7 @@ country_decisions = {
 			culture_group = low_cuitic
 		}
 		provinces_to_highlight = {
-			province_id = 215
+			region = cuite_region
 			OR = {
 				NOT = {
 					owned_by = ROOT
@@ -32,7 +32,14 @@ country_decisions = {
 			}
 			adm_tech = 10
 			is_at_war = no
-			owns_core_province = 215
+			calc_true_if = {
+				amount = 45
+				desc = cuitean_nation_tooltip
+				cuite_region = {
+					type = all
+					owned_by = ROOT
+				}
+			}
 		}
 		effect = {
 			change_tag = CUI

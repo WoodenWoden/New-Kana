@@ -1,3 +1,4 @@
 ﻿l_english:
  cuitean_nation_title: "Form Cuitean Nation"
  cuitean_nation_desc: "After several decades of tactful war and diplomacy, the disorganised kingdoms and princedoms of Cuite have been united as one! This will usher in a new era of prosperity and growth for Cuite, and solidify its position as one of the most powerful nations in East Niapti."
+ cuitean_nation_tooltip: " provinces in the §YCuite§! region are owned by §Y[Root.GetName]§!"
