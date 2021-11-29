@@ -56,7 +56,7 @@ army_names = {
 }
 
 fleet_names = {
-	"Delli Bist"
+	"Telli Bist"
 	
-	"Delli $PROVINCE$"
+	"Telli $PROVINCE$"
 }
