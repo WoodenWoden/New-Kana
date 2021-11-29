@@ -999,18 +999,18 @@ province;red;green;blue;x;x
 998;23;104;32;Ungava;x
 999;151;106;79;Nunavik;x
 1000;23;108;126;Cree;x
-1001;151;110;173;Sault;x
-1002;24;112;32;Abitbi;x
-1003;152;114;79;Moose Cree;x
-1004;24;116;126;Attawapiskat;x
-1005;152;118;173;Swampy Cree;x
-1006;24;120;32;Chipewyan;x
-1007;152;122;79;Ojibwa;x
-1008;24;124;126;Winnipeg;x
-1009;153;126;173;Atikaki;x
-1010;25;128;32;Manitoba;x
-1011;153;130;79;Woods Cree;x
-1012;25;132;126;Satsuma;x
+1001;17;0;255;Sault;x
+1002;17;25;255;Abitbi;x
+1003;17;50;255;Moose Cree;x
+1004;17;75;255;Attawapiskat;x
+1005;17;100;255;Swampy Cree;x
+1006;17;125;255;Chipewyan;x
+1007;17;150;255;Ojibwa;x
+1008;17;175;255;Winnipeg;x
+1009;17;200;255;Atikaki;x
+1010;17;225;255;Manitoba;x
+1011;17;250;255;Woods Cree;x
+1012;17;255;255;Satsuma;x
 1013;233;94;0;Cheongju;x
 1014;25;136;32;Bungo;x
 1015;153;138;79;Okinawa;x
