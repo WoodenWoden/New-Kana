@@ -1,3 +1,41 @@
+# Cuite
+
+high_cuitic = {
+	graphical_culture = easterngfx
+	
+	male_names = {
+		Curhi
+		Antam Antem
+		Eram
+		Ancwunhen
+		Lam Lempat
+		Mintih
+		Samat
+	}
+	female_names = {
+		Nhilim
+		Raesal
+	}
+	dynasty_names = {
+		Cuis
+	}
+	planh = {
+		male_names = {
+			Ciri
+			Entem
+			Ancinhen
+			Lempas
+			Minti
+			Samas
+		}
+		female_names = {
+			Resal
+		}
+		dynasty_names = {
+			Cis
+		}
+	}
+}
 low_cuitic = {
 	graphical_culture = easterngfx
 	
@@ -166,6 +204,8 @@ low_cuitic = {
 		}
 	}
 }
+
+# Tanga
 
 takua = {
 	graphical_culture = polynesiangfx
