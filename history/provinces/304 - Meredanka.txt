@@ -1,8 +1,8 @@
 #304 - Meredanka
 
-add_core = KLA
-owner = KLA
-controller = KLA
+add_core = NAR
+owner = NAR
+controller = NAR
 
 capital = "Meredanka"
 culture = nari
