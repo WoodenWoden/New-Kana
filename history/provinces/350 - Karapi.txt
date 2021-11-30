@@ -1,8 +1,8 @@
 #346 - Karapi
 
-add_core = NAR
-owner = NAR
-controller = NAR
+add_core = NGK
+owner = NGK
+controller = NGK
 
 capital = "Karapi"
 culture = sali
