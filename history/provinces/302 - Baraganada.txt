@@ -1,9 +1,13 @@
 #302 - Baraganada
 
+add_core = NGK
+owner = NGK
+controller = NGK
+
 capital = "Baraganada"
 culture = nari
 religion = nagamalu
-trade_goods = grain
+trade_goods = fruit
 base_tax = 1
 base_production = 1
 base_manpower = 1

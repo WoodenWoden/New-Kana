@@ -1,5 +1,9 @@
 #301 - Razako
 
+add_core = RAZ
+owner = RAZ
+controller = RAZ
+
 capital = "Razako"
 culture = nari
 religion = nagamalu
