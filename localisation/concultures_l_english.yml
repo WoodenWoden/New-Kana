@@ -1,8 +1,10 @@
 ﻿l_english:
 # Niapti
 # Cuite
- low_cuitic: "Low Cuitic"
+ high_cuitic: "High Cuitic"
+ planh: "Planh"
  
+ low_cuitic: "Low Cuitic"
  adamannat: "Adamannat"
  gmeos: "Gmeos"
  luoc: "Luoc"
