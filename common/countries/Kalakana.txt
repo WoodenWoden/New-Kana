@@ -2,12 +2,12 @@
 
 graphical_culture = westerngfx
 
-color = { 88  31  21 }
+color = { 242  87  99 }
 
 revolutionary_colors = { 0 1 0 }
 
 monarch_names = {
-	"Taro" = 100
+	"Talo" = 100
 	"Sanko" = 100
 	"Pagma" = 90
 	
@@ -16,7 +16,7 @@ monarch_names = {
 }
 
 leader_names = {
-	Taro
+	Talo
 	Sanko
 	Tama Tem
 }
