@@ -58,6 +58,7 @@ hadalan_area = {
 }
 horo_area = {
 	305 306 308
+	350
 }
 kokana_area = {
 	336 337
