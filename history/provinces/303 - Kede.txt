@@ -1,9 +1,13 @@
 #303 - Kede
 
+add_core = NAR
+owner = NAR
+controller = NAR
+
 capital = "Kede"
 culture = nari
 religion = nagamalu
-trade_goods = grain
+trade_goods = fruit
 base_tax = 1
 base_production = 1
 base_manpower = 1

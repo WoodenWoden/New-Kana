@@ -1,12 +1,16 @@
 #305 - Magosiha
 
+add_core = NAR
+owner = NAR
+controller = NAR
+
 capital = "Magosiha"
 culture = nari
 religion = nagamalu
-trade_goods = grain
-base_tax = 1
-base_production = 1
-base_manpower = 1
+trade_goods = iron
+base_tax = 3
+base_production = 4
+base_manpower = 3
 hre = no
 is_city = yes
 

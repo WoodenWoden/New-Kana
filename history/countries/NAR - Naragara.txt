@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = polynesian_tech
+religion = nagamalu
+primary_culture = nari
+capital = 305
+
+1401.12.12 = {
+	monarch = {
+		name = "Danada"
+		dynasty = "Varakanganar"
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}

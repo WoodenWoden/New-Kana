@@ -1,9 +1,13 @@
 #304 - Meredanka
 
+add_core = KLA
+owner = KLA
+controller = KLA
+
 capital = "Meredanka"
 culture = nari
 religion = nagamalu
-trade_goods = grain
+trade_goods = fruit
 base_tax = 1
 base_production = 1
 base_manpower = 1
