@@ -43,6 +43,7 @@ sursid_area = {
 
 akada_area = {
 	301 302 303 304
+	350
 }
 ang_ladsa_area = {
 	324
@@ -58,7 +59,6 @@ hadalan_area = {
 }
 horo_area = {
 	305 306 308
-	350
 }
 kokana_area = {
 	336 337

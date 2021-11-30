@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 30
+technology_group = polynesian_tech
+religion = nagamalu
+primary_culture = gori
+capital = 315
+
+1429.1.1 = {
+	monarch = {
+		name = "Goko"
+		dynasty = "Morono"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}

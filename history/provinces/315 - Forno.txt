@@ -1,11 +1,15 @@
 #315 - Forno
 
+add_core = GOR
+owner = GOR
+controller = GOR
+
 capital = "Forno"
 culture = gori
 religion = nagamalu
-trade_goods = grain
-base_tax = 1
-base_production = 1
+trade_goods = fruit
+base_tax = 2
+base_production = 2
 base_manpower = 1
 hre = no
 is_city = yes

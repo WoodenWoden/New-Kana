@@ -1,5 +1,6 @@
 BIS = "countries/Bist.txt"
 CUI = "countries/Cuite.txt"
+GOR = "countries/Goroki.txt"
 KLA = "countries/Kalakana.txt"
 KOE = "countries/Kole.txt"
 LOM = "countries/Lom.txt"

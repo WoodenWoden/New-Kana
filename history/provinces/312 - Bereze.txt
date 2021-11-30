@@ -1,10 +1,14 @@
 #312 - Bereze
 
+add_core = GOR
+owner = GOR
+controller = GOR
+
 capital = "Bereze"
 culture = gori
 religion = nagamalu
-trade_goods = grain
-base_tax = 1
+trade_goods = fruit
+base_tax = 2
 base_production = 1
 base_manpower = 1
 hre = no
