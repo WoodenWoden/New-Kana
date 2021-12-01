@@ -1,5 +1,9 @@
 #308 - Morosoro
 
+add_core = VAI
+owner = VAI
+controller = VAI
+
 capital = "Morosoro"
 culture = gori
 religion = nagamalu
