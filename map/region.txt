@@ -2,6 +2,7 @@
 
 cuite_region = {
 	areas = {
+		conhenas_area
 		cromtur_area
 		ledni_area
 		pmunocr_area

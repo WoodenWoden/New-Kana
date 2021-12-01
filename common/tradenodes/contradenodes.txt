@@ -28,6 +28,17 @@ tradenodeplaceholder = {
 	}
 }
 
+gadelassa = {
+	location = 327
+	color = {
+		186 1 238
+	}
+	members = {
+		318
+		320 321 324 326 327 328 329
+		332 333
+	}
+}
 moutda = {
 	location = 215
 	color = {
@@ -43,7 +54,17 @@ moutda = {
 		296 297 299
 	}
 }
-
+nhont = {
+	location = 252
+	color = {
+		55 55 155
+	}
+	members = {
+		252 253 254 255 256 257 258
+		284
+		292
+	}
+}
 sali = {
 	location = 300
 	color = {
@@ -55,17 +76,5 @@ sali = {
 		322 323 325
 		330 331 334 335 336 337 338 339
 		340 341 342 343 344 345 346 347 348 349
-	}
-}
-
-gadelassa = {
-	location = 327
-	color = {
-		186 1 238
-	}
-	members = {
-		318
-		320 321 324 326 327 328 329
-		332 333
 	}
 }
