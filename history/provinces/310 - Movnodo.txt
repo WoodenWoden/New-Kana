@@ -1,12 +1,16 @@
 # 310 - Movnodo
 
+add_core = PON
+owner = PON
+controller = PON
+
 capital = "Movnodo"
 culture = gori
 religion = nagamalu
 trade_goods = grain
 base_tax = 1
 base_production = 1
-base_manpower = 1
+base_manpower = 3
 hre = no
 is_city = yes
 

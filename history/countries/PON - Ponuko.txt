@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = polynesian_tech
+religion = nagamalu
+primary_culture = gori
+capital = 315
+
+1423.7.7 = {
+	monarch = {
+		name = "Hongokho"
+		dynasty = "Mahoro"
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}

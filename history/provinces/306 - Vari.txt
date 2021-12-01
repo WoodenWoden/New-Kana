@@ -1,12 +1,16 @@
 #306 - Vari
 
+add_core = VAI
+owner = VAI
+controller = VAI
+
 capital = "Vari"
 culture = nari
 religion = nagamalu
-trade_goods = grain
-base_tax = 1
-base_production = 1
-base_manpower = 1
+trade_goods = fruit
+base_tax = 3
+base_production = 3
+base_manpower = 2
 hre = no
 is_city = yes
 

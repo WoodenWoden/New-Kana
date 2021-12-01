@@ -1,5 +1,9 @@
 #311 - Khoro
 
+add_core = PON
+owner = PON
+controller = PON
+
 capital = "Khoro"
 culture = gori
 religion = nagamalu

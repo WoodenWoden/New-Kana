@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = polynesian_tech
+religion = nagamalu
+primary_culture = nari
+capital = 302
+
+1417.1.13 = {
+	monarch = {
+		name = "Mari"
+		dynasty = "Ragka"
+		adm = 5
+		dip = 3
+		mil = 4
+	}
+}
