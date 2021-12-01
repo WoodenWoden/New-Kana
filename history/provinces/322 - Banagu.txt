@@ -1,12 +1,16 @@
 #322 - Banagu
 
+add_core = AGM
+owner = AGM
+controller = AGM
+
 capital = "Banagu"
 culture = sali
 religion = nagamalu
-trade_goods = grain
-base_tax = 1
-base_production = 1
-base_manpower = 1
+trade_goods = livestock
+base_tax = 2
+base_production = 3
+base_manpower = 2
 hre = no
 is_city = yes
 

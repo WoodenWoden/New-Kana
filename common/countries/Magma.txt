@@ -1,0 +1,57 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 255  105  97 }
+
+revolutionary_colors = { 0 11 0 }
+
+monarch_names = {
+	"Ekha" = 100
+	"Galanamasa" = 100
+	"Mada" = 100
+	"Maganda" = 100
+	"Mala" = 100
+	"Pagma" = 100
+	"Sagapano" = 100
+	"Sanko" = 100
+	"Tama" = 100
+	"Talo" = 100
+	"Vanka" = 100
+	
+	
+	"Baganda" = -100
+	"Bako" = -100
+	"Balihe" = -100
+	"Eziina" = -100
+	"Halokana" = -100
+	"Halonga" = -100
+	"Kamma" = -100
+	"Nawa" = -100
+	"Tepka" = -100
+	"Velak" = -100
+}
+
+leader_names = {
+	Ekha
+	Galanamasa
+	Mada Maganda Mala
+	Pagma
+	Sagapano Sanko
+	Tama Talo
+	Vanka Vazia
+}
+
+ship_names = {
+	"Megakk san Akav"
+	"Malakas san Kangtiwn"
+}
+
+
+army_names = {
+	"$PROVINCE$ san Kamako" 
+}
+
+fleet_names = {
+	"$PROVINCE$ san Gatiwn"
+}

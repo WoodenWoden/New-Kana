@@ -1,3 +1,4 @@
+AGM = "countries/Magma.txt"
 BIS = "countries/Bist.txt"
 CUI = "countries/Cuite.txt"
 GOR = "countries/Goroki.txt"
