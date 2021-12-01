@@ -4,12 +4,12 @@ high_cuitic = {
 	graphical_culture = easterngfx
 	
 	male_names = {
-		Curhi
 		Antam Antem
+		Curhi
 		Eram
-		Ancwunhen
 		Lam Lempat
 		Mintih
+		Nhwunhen
 		Samat
 	}
 	female_names = {
@@ -17,22 +17,37 @@ high_cuitic = {
 		Raesal
 	}
 	dynasty_names = {
-		Cuis
+		Ca Cante Cor Cuis Cuonh Cwer
+		Hunh
+		Min Moi
+		Nhac
+		Oi Oun Ounh
+		Put
+		Slamp Soc Suhi
+		Tae Tipac
 	}
 	planh = {
 		male_names = {
+			Ansam
 			Ciri
-			Entem
-			Ancinhen
-			Lempas
-			Minti
+			Ensem
+			Lemfas
+			Minsi
+			Nhinhen
 			Samas
 		}
 		female_names = {
 			Resal
 		}
 		dynasty_names = {
-			Cis
+			Cense Cer Cis
+			Ei
+			Mei
+			Nha
+			Pus
+			Si Slamf So
+			Te Tifa
+			Unh
 		}
 	}
 }
@@ -54,14 +69,14 @@ low_cuitic = {
 	}
 	dynasty_names = {
 		Arouw Asiet
-		Bati Be Bes Bist Bmein Bom Bora Brocie Bru Bu Busaddtam
+		Bati Be Bes Bist Bmein Bom Bora Brocie Bru Bu Busadam
 		Cai Cir Cirwoita Clom Cmer Cnom Cnon Co Cripu Csat Ctew Cuite
 		Dei Dimir Dliwist Doat Don Duslan
 		Eca Eip Enec Es
 		Galdban Gbaso Gipol Grugir Gugo
 		Hactra Hesgi Hoi Hom Huocuo
 		Ilid Iloect Imuol
-		Leap Liccana Lom Luali Luct Luic Luta Lwost
+		Leap Ligana Lom Luali Luct Luic Luta Lwost
 		Matsi Min Mon Moucatde
 		Nattwu Nawio
 		Obn Obnoc Ohai Oncia Onig
@@ -172,7 +187,7 @@ low_cuitic = {
 			Dliyis
 			Grigir
 			Ilec
-			Licana Lueli
+			Ligana Lueli
 			Metsi
 			Natyu
 			Ohei
