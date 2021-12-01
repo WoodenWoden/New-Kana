@@ -7,18 +7,39 @@ color = { 242  87  99 }
 revolutionary_colors = { 0 1 0 }
 
 monarch_names = {
-	"Talo" = 100
+	"Ekha" = 100
+	"Galanamasa" = 100
+	"Mada" = 100
+	"Maganda" = 100
+	"Mala" = 100
+	"Pagma" = 100
+	"Sagapano" = 100
 	"Sanko" = 100
-	"Pagma" = 90
+	"Tama" = 100
+	"Talo" = 100
+	"Vanka" = 100
 	
-	"Velak" = -100
+	
+	"Baganda" = -100
+	"Bako" = -100
+	"Balihe" = -100
+	"Eziina" = -100
+	"Halokana" = -100
+	"Halonga" = -100
+	"Kamma" = -100
+	"Nawa" = -100
 	"Tepka" = -100
+	"Velak" = -100
 }
 
 leader_names = {
-	Talo
-	Sanko
-	Tama Tem
+	Ekha
+	Galanamasa
+	Mada Maganda Mala
+	Pagma
+	Sagapano Sanko
+	Tama Talo
+	Vanka Vazia
 }
 
 ship_names = {
