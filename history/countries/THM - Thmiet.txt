@@ -8,7 +8,7 @@ capital = 213 # Sasab
 
 1443.1.1 = {
 	monarch = {
-		name = "Samt"
+		name = "Samt III"
 		dynasty = "Satem"
 		birth_date = 1416.1.3
 		adm = 4
@@ -16,12 +16,23 @@ capital = 213 # Sasab
 		mil = 2
 		
 		leader = {
-			name = "Samt Satem"
+			name = "Samt III Satem"
 			type = general
 			fire = 3
 			shock = 4
 			manuever = 2
 			siege = 3
 		}
+	}
+	heir = {
+		name = "Tem"
+		monarch_name = "Tem II"
+		dynasty = "Satem"
+		birth_date = 1442.7.7
+		death_date = 1445.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 2
 	}
 }
