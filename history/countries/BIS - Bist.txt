@@ -8,7 +8,7 @@ capital = 219 # Dei
 
 1443.1.1 = {
 	monarch = {
-		name = "Curci"
+		name = "Curci III"
 		dynasty = "Ram"
 		birth_date = 1410.12.11
 		adm = 2
@@ -16,7 +16,7 @@ capital = 219 # Dei
 		mil = 3
 		
 		leader = {
-			name = "Curci Ram"
+			name = "Curci III Ram"
 			type = general
 			fire = 2
 			shock = 1
