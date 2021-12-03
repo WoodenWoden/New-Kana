@@ -4,3 +4,24 @@ mercantilism = 25
 technology_group = eastern
 religion = nopt
 primary_culture = luoc
+capital = 213 # Sasab
+
+1443.1.1 = {
+	monarch = {
+		name = "Samt"
+		dynasty = "Satem"
+		birth_date = 1416.1.3
+		adm = 4
+		dip = 5
+		mil = 2
+		
+		leader = {
+			name = "Samt Satem"
+			type = general
+			fire = 3
+			shock = 4
+			manuever = 2
+			siege = 3
+		}
+	}
+}

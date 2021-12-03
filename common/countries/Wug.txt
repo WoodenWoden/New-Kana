@@ -2,30 +2,30 @@
 
 graphical_culture = easterngfx
 
-color = { 157  51  167 }
+color = { 207  151  217 }
 
 revolutionary_colors = { 8 1 8 }
 
 monarch_names = {
-	"Chulchi" = 30
-	"Curci" = 60
-	"Cwunen" = 20
-	"Dama" = 70
-	"Dem" = 40
-	"Elam" = 10
-	"Eram" = 90
-	"Gwunen" = 10
-	"Lam" = 70
-	"Lebt" = 10
-	"Midih" = 40
-	"Miti" = 20
-	"Samt" = 70
-	"Tama" = 40
-	"Tem" = 40
+	"Chulchi" #0 = 30
+	"Curci" #2 = 60
+	"Cwunen" #2 = 20
+	"Dama" #4 = 70
+	"Dem" #3 = 40
+	"Elam" #2 = 10
+	"Eram" #1 = 90
+	"Gwunen" #3 = 10
+	"Lam" #5 = 70
+	"Lebt" #1 = 10
+	"Midih" #1 = 40
+	"Miti" #0 = 20
+	"Samt" #2 = 70
+	"Tama" #0 = 40
+	"Tem" #0 = 40
 	
-	"Laesalu" = -10
-	"Nilim" = -10
-	"Raesalu" = -40
+	"Laesalu" #0 = -10
+	"Nilim" #0 = -10
+	"Raesalu" #0 = -40
 }
 
 leader_names = {
