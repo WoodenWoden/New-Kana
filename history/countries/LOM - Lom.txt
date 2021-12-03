@@ -11,8 +11,8 @@ historical_friend = PNE
 
 1443.1.1 = {
 	monarch = {
-		name = "Aram"
-		dynasty = "Lom"
+		name = "Aram II"
+		dynasty = "Maogadda"
 		birth_date = 1411.6.9
 		adm = 1
 		dip = 2
