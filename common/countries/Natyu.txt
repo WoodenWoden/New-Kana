@@ -7,23 +7,23 @@ color = { 255  235  99 }
 revolutionary_colors = { 26 229 152 }
 
 monarch_names = {
-	"Ciri" = 20
-	"Curci" = 90
-	"Dama" = 80
-	"Dem" = 60
-	"Eram" = 20
-	"Gwunen" = 50
-	"Gyinen" = 90
-	"Lam" = 90
-	"Leb" = 70
-	"Lebt" = 60
-	"Midih" = 40
-	"Sam" = 100
-	"Samt" = 80
+	"Ciri" #0 = 20
+	"Curci" #5 = 90
+	"Dama" #5 = 80
+	"Dem" #2 = 60
+	"Eram" #2 = 20
+	"Gwunen" #2 = 50
+	"Gyinen" #4 = 90
+	"Lam" #5 = 90
+	"Leb" #1 = 70
+	"Lebt" #3 = 60
+	"Midih" #2 = 40
+	"Sam" #3 = 100
+	"Samt" #1 = 80
 	
-	"Nilim" = -80
-	"Raesalu" = -20
-	"Resalu" = -80
+	"Nilim" #0 = -80
+	"Raesalu" #0 = -20
+	"Resalu" #0 = -80
 }
 
 leader_names = {
