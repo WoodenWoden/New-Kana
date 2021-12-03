@@ -23,7 +23,7 @@ adamantium = {
 		mil_tech_cost_modifier = -0.05
 	}
 	province = {
-		accept_vassalizationn_reasons = 10
+		accept_vassalization_reasons = 10
 	}
 	chance = {
 		factor = 0
