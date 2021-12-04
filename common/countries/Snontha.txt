@@ -2,9 +2,9 @@
 
 graphical_culture = easterngfx
 
-color = { 119 199 167 }
+color = { 119 199 217 }
 
-revolutionary_colors = { 13 205 41 }
+revolutionary_colors = { 13 205 91 }
 
 monarch_names = {
 	"Ai" #3 = 50

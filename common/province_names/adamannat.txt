@@ -14,7 +14,7 @@
 224 = "Arouw"
 225 = "Busadam"
 226 = "Eip"
-227 = "Hactra"
+227 = "Hacra"
 228 = "Rancalo"
 229 = "Bru"
 230 = "Co"
