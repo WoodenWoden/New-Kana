@@ -15,11 +15,15 @@ monarch_names = {
 	"Eram" #2 = 30
 	"Gwonen" #0 = 10
 	"Gwunen" #5 = 50
+	"Hae" #1 = 70
+	"Hai" #3 = 30
 	"Lam" #3 = 60
 	"Lebt" #2 = 40
 	"Medih" #1 = 70
 	"Midih" #1 = 40
 	"Samt" #1 = 90
+	"Tae" #2 = 80
+	"Tai" #1 = 90
 	
 	"Nelim" #0 = -10
 	"Nilim" #0 = -50
@@ -33,9 +37,11 @@ leader_names = {
 	Dama Dem
 	Eram
 	Gwonen Gwunen
+	Hae Hai
 	Lam Lebt
 	Medih Midih
 	Samt
+	Tae Tai
 }
 
 ship_names = {
@@ -44,11 +50,13 @@ ship_names = {
 	Damana Demna
 	Eramna
 	Gwonenna Gwunenna
+	Haena Haina
 	Lamna Lebna
 	Medina Midina
 	Nelimna Nilimna
 	Raesaluna Rasalona
 	Samna
+	Taena Taina
 }
 
 

@@ -7,6 +7,7 @@ color = { 207  151  217 }
 revolutionary_colors = { 8 1 8 }
 
 monarch_names = {
+	"Ai" #0 = 40
 	"Chulchi" #0 = 30
 	"Curci" #2 = 60
 	"Cwunen" #2 = 20
@@ -15,13 +16,16 @@ monarch_names = {
 	"Elam" #1 = 10
 	"Eram" #1 = 90
 	"Gwunen" #2 = 10
+	"Hai" #2 = 80
 	"Lam" #5 = 70
 	"Lebt" #0 = 10
 	"Midih" #1 = 40
 	"Miti" #0 = 20
 	"Samt" #2 = 70
+	"Tai" #1 = 70
 	"Tama" #0 = 40
 	"Tem" #0 = 40
+	"Thai" #6 = 100
 	
 	"Laesalu" #0 = -10
 	"Nilim" #0 = -10
@@ -29,27 +33,31 @@ monarch_names = {
 }
 
 leader_names = {
+	Ai
 	Curci Chulchi Cwunen
 	Dama Dem
 	Elam Eram
 	Gwunen
+	Hai
 	Lam Lebt
 	Midih Miti
 	Samt
-	Tama Tem
+	Tai Tama Tem Thai
 }
 
 ship_names = {
+	Aina
 	Curcina Chulchina Cwunenna
 	Damana Demna
 	Elamna Eramna
 	Gwunenna
+	Haina
 	Laesaluna Lamna Lebna
 	Midina Mitina
 	Nilimna
 	Raesaluna
 	Samna
-	Tamana Temna
+	Taina Tamana Temna Thaina
 }
 
 

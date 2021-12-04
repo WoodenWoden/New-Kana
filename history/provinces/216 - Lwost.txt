@@ -1,3 +1,7 @@
+add_core = CUO
+owner = CUO
+controller = CUO
+
 capital = "Lainun"
 culture = luoc
 religion = nopt

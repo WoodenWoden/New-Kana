@@ -1,3 +1,7 @@
+add_core = MTE
+owner = MTE
+controller = MTE
+
 capital = "Cuco"
 culture = luoc
 religion = nopt

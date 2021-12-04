@@ -7,10 +7,12 @@ high_cuitic = {
 		Antam Antem
 		Curhi
 		Eram
+		Ha
 		Lam Lempat
 		Mintih
 		Nhwunhen
 		Samat
+		Ta
 	}
 	female_names = {
 		Nhilim
@@ -28,7 +30,7 @@ high_cuitic = {
 	}
 	planh = {
 		male_names = {
-			Ansam
+			A Ansam
 			Ciri
 			Ensem
 			Lemfas
@@ -59,9 +61,11 @@ low_cuitic = {
 		Dama Dem
 		Eram
 		Gwunen
+		Hai
 		Lam Lebt
 		Midih
 		Samt
+		Tai
 	}
 	female_names = {
 		Nilim
@@ -73,7 +77,7 @@ low_cuitic = {
 		Cai Cir Cirwoita Clom Cmer Cnom Cnon Co Cripu Csat Ctew Cuite
 		Dei Dimir Dliwist Doat Don Duslan
 		Eca Eip Enec Es
-		Galdban Gbaso Gipol Grugir Gugo
+		Galdban Gbaso Gipol Grugir Gugo Guoi
 		Hactra Hesgi Hoi Hom Huocuo
 		Ilid Iloect Imuol
 		Leap Ligana Lom Luali Luct Luic Luta Lwost
@@ -83,7 +87,7 @@ low_cuitic = {
 		Pen Penlom Pes Pirbra Pius Plan Pnoui Praset Pti
 		Ra Rainun Rancalo Rit Ros
 		Sac Sal Sasab Satem Seasao Seod Sesla Slen Snew Snol Soampiet Soc Srew Sruwt Surun
-		Tamhi Teccuo Tescti Tmei Tmiet Trom Trant Trie Tsea Tuliba
+		Tamhi Teccuo Tescti Ti Tmei Tmiet Trom Trant Trie Tsea Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
 	}
@@ -108,9 +112,11 @@ low_cuitic = {
 			Aram
 			Curge
 			Gonen
+			Hae
 			Lebd
 			Medih
 			Samd
+			Tae
 		}
 		female_names = {
 			Nelim
@@ -130,22 +136,23 @@ low_cuitic = {
 	}
 	luoc = {
 		male_names = {
+			Ai
 			Chulchi
 			Cwunen
 			Elam
 			Miti
-			Tama Tem
+			Tama Tem Thai
 		}
 		female_names = {
 			Laesalu
 		}
 		dynasty_names = {
-			Chuithe Cuco
+			Chuithe Cuco Cuoi
 			Lainun
 			Om
 			Pmein
 			Sathem
-			Temir Thmiet Tuslan
+			Temir Thi Thmiet Tuslan
 		}
 	}
 	nanim = {
@@ -153,7 +160,9 @@ low_cuitic = {
 			Aram
 			Curce
 			Gwonen
+			Hae
 			Medih
+			Tae
 		}
 		female_names = {
 			Nelim
@@ -175,8 +184,10 @@ low_cuitic = {
 		male_names = {
 			Ciri
 			Gyinen
+			Hei
 			Leb
 			Sam
+			Tei
 		}
 		female_names = {
 			Resalu
@@ -201,10 +212,12 @@ low_cuitic = {
 	samod = {
 		male_names = {
 			Cirgi
+			Ei
 			Gyinen
 			Lebd
 			Midi
 			Samd
+			Tei
 		}
 		female_names = {
 			Resalu

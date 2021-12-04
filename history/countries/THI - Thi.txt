@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = luoc
+capital = 214 # Ilid
+
+1443.1.1 = {
+	monarch = {
+		name = "Tama V"
+		dynasty = "Ilid"
+		birth_date = 1406.12.9
+		adm = 1
+		dip = 0
+		mil = 6
+		
+		leader = {
+			name = "Tama V Ilid"
+			type = general
+			fire = 1
+			shock = 3
+			manuever = 5
+			siege = 0
+		}
+	}
+}

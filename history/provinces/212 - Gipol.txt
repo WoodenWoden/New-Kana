@@ -1,3 +1,8 @@
+add_core = SNO
+
+owner = BIS
+controller = BIS
+
 capital = "Tuslan"
 culture = luoc
 religion = nopt

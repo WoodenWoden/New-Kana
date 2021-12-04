@@ -1,3 +1,7 @@
+add_core = MTE
+owner = MTE
+controller = MTE
+
 capital = "Ilec"
 culture = psemer
 religion = nopt

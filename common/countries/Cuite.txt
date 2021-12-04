@@ -7,18 +7,20 @@ color = { 172  56  74 }
 revolutionary_colors = { 237  41  13 }
 
 monarch_names = {
-	"Curci" = 20
-	"Dama" = 30
-	"Dem" = 100
-	"Eram" = 60
-	"Gwunen" = 20
-	"Lam" = 80
-	"Lebt" = 20
-	"Midih" = 10
-	"Samt" = 90
+	"Curci" #0 = 20
+	"Dama" #0 = 30
+	"Dem" #0 = 100
+	"Eram" #0 = 60
+	"Gwunen" #0 = 20
+	"Hai" #0 = 100
+	"Lam" #0 = 80
+	"Lebt" #0 = 20
+	"Midih" #0 = 10
+	"Samt" #0 = 90
+	"Tai" #0 = 50
 	
-	"Nilim" = -80
-	"Raesalu" = -50
+	"Nilim" #0 = -80
+	"Raesalu" #0 = -50
 }
 
 leader_names = {
@@ -26,9 +28,11 @@ leader_names = {
 	Dama Dem
 	Eram
 	Gwunen
+	Hai
 	Lam Lebt
 	Midih
 	Samt
+	Tai
 }
 
 ship_names = {
@@ -36,11 +40,13 @@ ship_names = {
 	Damana Demna
 	Eramna
 	Gwunenna
+	Haina
 	Lamna Lebna
 	Midina
 	Nilimna
 	Raesaluna
 	Samna
+	Taina
 }
 
 
@@ -48,10 +54,12 @@ army_names = {
 	"Cone Cuite"
 	
 	"Cone Bist"
+	"Cone Guoi"
 	"Cone Lom"
-	"Cone Pen"
-	"Cone Penlom"
-	"Cone Tmiet"
+	"Cone Nattwu"
+	"Cone Pen" "Cone Pen Lom"
+	"Cone Se Mdec" "Cone Snonta"
+	"Cone Ti" "Cone Tmiet"
 	"Cone Wug"
 	
 	"Cone $PROVINCE$"
@@ -61,10 +69,12 @@ fleet_names = {
 	"Stelli Cuite"
 	
 	"Stelli Bist"
+	"Stelli Guoi"
 	"Stelli Lom"
-	"Stelli Pen"
-	"Stelli Penlom"
-	"Stelli Tmiet"
+	"Stelli Nattwu"
+	"Stelli Pen" "Stelli Pen Lom"
+	"Stelli Se Mdec" "Stelli Snonta"
+	"Stelli Ti" "Stelli Tmiet"
 	"Stelli Wug"
 	
 	"Stelli $PROVINCE$"

@@ -1,3 +1,7 @@
+add_core = THI
+owner = THI
+controller = THI
+
 capital = "Temil"
 culture = luoc
 religion = nopt

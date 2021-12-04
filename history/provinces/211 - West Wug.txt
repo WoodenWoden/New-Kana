@@ -1,6 +1,7 @@
 add_core = WUG
-owner = WUG
-controller = WUG
+
+owner = BIS
+controller = BIS
 
 capital = "Luct"
 culture = luoc

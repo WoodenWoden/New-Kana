@@ -2,34 +2,34 @@
 
 graphical_culture = easterngfx
 
-color = { 140  210  175 }
+color = { 246 198 84 }
 
-revolutionary_colors = { 180 152 91 }
+revolutionary_colors = { 219 84 46 }
 
 monarch_names = {
-	"Ai" #3 = 80
-	"Chulchi" #2 = 20
-	"Curci" #1 = 80
-	"Cwunen" #5 = 70
+	"Ai" #3 = 40
+	"Chulchi" #2 = 30
+	"Curci" #1 = 50
+	"Cwunen" #0 = 30
 	"Dama" #5 = 60
-	"Dem" #5 = 100
-	"Elam" #2 = 100
-	"Eram" #2 = 50
-	"Gwunen" #1 = 30
-	"Hai" #2 = 60
-	"Lam" #3 = 70
-	"Lebt" #3 = 40
-	"Midih" #2 = 40
-	"Miti" #4 = 50
-	"Samt" #2 = 80
-	"Tai" #5 = 80
-	"Tama" #5 = 50
-	"Tem" #1 = 70
-	"Thai" #5 = 50
+	"Dem" #2 = 100
+	"Elam" #4 = 70
+	"Eram" #1 = 70
+	"Gwunen" #3 = 30
+	"Hai" #5 = 100
+	"Lam" #4 = 60
+	"Lebt" #2 = 70
+	"Midih" #2 = 60
+	"Miti" #3 = 70
+	"Samt" #3 = 90
+	"Tai" #3 = 30
+	"Tama" #4 = 50
+	"Tem" #3 = 20
+	"Thai" #3 = 20
 	
-	"Laesalu" #0 = -20
-	"Nilim" #0 = -10
-	"Raesalu" #0 = -80
+	"Laesalu" #0 = -90
+	"Nilim" #0 = -30
+	"Raesalu" #0 = -10
 }
 
 leader_names = {
@@ -62,13 +62,13 @@ ship_names = {
 
 
 army_names = {
-	"Chone Thmiet"
+	"Chone Thi"
 	
 	"Chone $PROVINCE$"
 }
 
 fleet_names = {
-	"Stelli Thmiet"
+	"Stelli Thi"
 	
 	"Stelli $PROVINCE$"
 }

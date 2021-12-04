@@ -1,0 +1,38 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = luoc
+capital = 216 # Lwost
+
+1443.1.1 = {
+	monarch = {
+		name = "Dama VI"
+		dynasty = "Ciphol"
+		birth_date = 1429.12.6
+		adm = 2
+		dip = 5
+		mil = 0
+		
+		leader = {
+			name = "Dama VI Ciphol"
+			type = general
+			fire = 4
+			shock = 6
+			manuever = 2
+			siege = 0
+		}
+	}
+	heir = {
+		name = "Cwunen"
+		monarch_name = "Cwunen V"
+		dynasty = "Ciphol"
+		birth_date = 1439.6.19
+		death_date = 1445.1.1
+		claim = 95
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}

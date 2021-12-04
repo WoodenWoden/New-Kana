@@ -17,6 +17,8 @@ monarch_names = {
 	"Gonen" = 80
 	"Gwonen" = 70
 	"Gwunen" = 10
+	"Hae" = 50
+	"Hai" = 40
 	"Lam" = 90
 	"Lebd" = 50
 	"Lebt" = 10
@@ -24,6 +26,8 @@ monarch_names = {
 	"Midih" = 30
 	"Samd" = 80
 	"Samt" = 60
+	"Tae" = 10
+	"Tai" = 90
 	
 	"Nelim" = -100
 	"Nilim" = -60
@@ -37,9 +41,11 @@ leader_names = {
 	Dama Dem
 	Eram
 	Gonen Gwonen Gwunen
+	Hae Hai
 	Lam Lebd Lebt
 	Medih Midih
 	Samd Samt
+	Tae Tai
 }
 
 ship_names = {
@@ -48,11 +54,13 @@ ship_names = {
 	Damana Demna
 	Eramna
 	Gonenna Gwonenna Gwunenna
+	Haena Haina
 	Lamna Lebna
 	Medina Midina
 	Nelimna Nilimna
 	Raesaluna Rasalona
 	Samna
+	Taena Taina
 }
 
 
