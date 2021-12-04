@@ -1,4 +1,4 @@
-royal_marriage = {
+union = {
 	first = PNE
 	second = LOM
 	start_date = 1443.1.1
