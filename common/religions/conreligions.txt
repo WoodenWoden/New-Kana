@@ -1,15 +1,7 @@
-# If you add religions, and use those tags, do not change them without changing everywhere they are used.
-
-# Uses all 'modifiers' possible thats exported as a Modifier.
-
 sigic = {
 	defender_of_faith = yes
 	can_form_personal_unions = yes
-
-	# Flag emblem values - Used for Dynamic Setup of Random Nations.
-	# Emblem texture: game/gfx/interface/client_state_symbols_large.dds
-	# Can be overridden per religion.
-	flags_with_emblem_percentage = 33 # default == 0
+	flags_with_emblem_percentage = 33
 	flag_emblem_index_range = { 1 57 }
 
 	nopt = {
@@ -19,13 +11,10 @@ sigic = {
 		country = {
 			diplomatic_upkeep = 1
 			trade_steering = 0.1
-		}
-				
+		}	
 		heretic = { HERETIC }
 	}
-	
 	harmonized_modifier = harmonized_thogca
-	
 	crusade_name = HOLY_WAR
 }
 
@@ -45,7 +34,6 @@ bamakanan = {
 			global_tax_modifier = 0.1
 			tolerance_heathen = 2
 		}
-				
 		heretic = { HERETIC }
 		
 		on_convert = {
@@ -56,13 +44,9 @@ bamakanan = {
 				duration = 3650
 			}
 		}
-		
 		heretic = { ZEN }
-		
 		uses_karma = yes
 	}
-	
 	harmonized_modifier = harmonized_thogca
-	
 	crusade_name = HOLY_WAR
 }
