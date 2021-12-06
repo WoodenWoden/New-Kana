@@ -1,3 +1,7 @@
+add_core = LOM
+owner = LOM
+controller = LOM
+
 capital = "Ra"
 culture = samod
 religion = nopt

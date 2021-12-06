@@ -1,3 +1,7 @@
+add_core = LOM
+owner = LOM
+controller = LOM
+
 capital = "Fimt"
 culture = gmeos
 religion = nopt

@@ -1,3 +1,7 @@
+add_core = NAY
+owner = NAY
+controller = NAY
+
 capital = "Metsi"
 culture = psemer
 religion = nopt

@@ -1,3 +1,7 @@
+add_core = PNE
+owner = PNE
+controller = PNE
+
 capital = "Pes"
 culture = samod
 religion = nopt

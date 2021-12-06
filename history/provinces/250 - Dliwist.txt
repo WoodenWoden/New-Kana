@@ -1,3 +1,7 @@
+add_core = NAY
+owner = NAY
+controller = NAY
+
 capital = "Lueli"
 culture = psemer
 religion = nopt
