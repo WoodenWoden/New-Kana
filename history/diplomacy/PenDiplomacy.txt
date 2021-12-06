@@ -1,4 +1,10 @@
-union = {
+alliance = {
+	first = PNE
+	second = LOM
+	start_date = 1443.1.1
+	end_date =  1445.1.1
+}
+royal_marriage = {
 	first = PNE
 	second = LOM
 	start_date = 1443.1.1
