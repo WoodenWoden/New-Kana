@@ -1,6 +1,6 @@
-add_core = MTE
-owner = MTE
-controller = MTE
+add_core = BIS
+owner = BIS
+controller = BIS
 
 capital = "Ilec"
 culture = psemer

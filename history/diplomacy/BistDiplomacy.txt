@@ -1,5 +1,11 @@
 vassal = {
 	first = BIS
+	second = BBU
+	start_date = 1443.1.1
+	end_date =  1445.1.1
+}
+vassal = {
+	first = BIS
 	second = MTE
 	start_date = 1443.1.1
 	end_date =  1445.1.1

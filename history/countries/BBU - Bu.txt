@@ -1,0 +1,28 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = adamannat
+capital = 217 # Bu
+fixed_capital = 217 # Bu
+
+1443.1.1 = {
+	monarch = {
+		name = "Dama III"
+		dynasty = "Bu"
+		birth_date = 1395.3.30
+		adm = 6
+		dip = 2
+		mil = 1
+		
+		leader = {
+			name = "Dama III Bu"
+			type = general
+			fire = 1
+			shock = 0
+			manuever = 3
+			siege = 0
+		}
+	}
+}

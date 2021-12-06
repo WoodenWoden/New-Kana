@@ -1,6 +1,6 @@
-add_core = BIS
-owner = BIS
-controller = BIS
+add_core = BBU
+owner = BBU
+controller = BBU
 
 capital = "Seod"
 culture = adamannat
@@ -13,6 +13,4 @@ hre = yes
 is_city = yes
 
 discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = polynesian_tech

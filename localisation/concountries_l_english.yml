@@ -1,6 +1,8 @@
 ﻿l_english:
  AGM: "Magma"
  AGM_ADJ: "Magman"
+ BBU: "Bu"
+ BBU_ADJ: "Buan"
  BIS: "Bist"
  BIS_ADJ: "Bistan"
  CUI: "Cuite"
@@ -45,6 +47,8 @@
  THI_ADJ: "Thi"
  THM: "Thmiet"
  THM_ADJ: "Thmietan"
+ TLO: "Lou"
+ TLO_ADJ: "Louan"
  VAI: "Vari"
  VAI_ADJ: "Varan"
  WUG: "Wug"

@@ -86,8 +86,8 @@ low_cuitic = {
 		Obn Obnoc Ohai Oncia Onig
 		Pen Penlom Pes Pirbra Pius Plan Pnoui Praset Pti
 		Ra Rainun Rancalo Rit Ros
-		Sac Sal Sasab Satem Seasao Seod Sesla Slen Snew Snol Soampiet Soc Srew Sruwt Surun
-		Tamhi Teccuo Tescti Ti Tmei Tmiet Trom Trant Trie Tsea Tuliba
+		Sac Sal Sasab Satem "Se Mdec" Seasao Seod Sesla Slen Snew Snol Snonta Soampiet Soc Srew Sruwt Surun
+		Tamhi Teccuo Tescti Ti Tlou Tmei Tmiet Trom Trant Trie Tsea Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
 	}
@@ -102,6 +102,7 @@ low_cuitic = {
 		dynasty_names = {
 			Ancia
 			Galban
+			Lou
 			Mei
 			Ram Rie
 			Sat
@@ -151,7 +152,7 @@ low_cuitic = {
 			Lainun
 			Om
 			Pmein
-			Sathem
+			Sathem "Se Mtec" Snontha
 			Temir Thi Thmiet Tuslan
 		}
 	}
