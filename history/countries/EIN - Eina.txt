@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = psemer
+capital = 245 # Sruwt
+
+1443.1.1 = {
+	monarch = {
+		name = "Lebt VI"
+		dynasty = "Slen"
+		birth_date = 1408.9.10
+		adm = 0
+		dip = 4
+		mil = 1
+		
+		leader = {
+			name = "Lebt VI Slen"
+			type = general
+			fire = 4
+			shock = 2
+			manuever = 1
+			siege = 2
+		}
+	}
+}

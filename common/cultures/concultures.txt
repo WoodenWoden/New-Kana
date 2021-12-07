@@ -72,7 +72,7 @@ low_cuitic = {
 		Raesalu
 	}
 	dynasty_names = {
-		Arouw Asiet
+		Aina Arouw Asiet
 		Bati Be Bes Bist Bmein Bom Bora Brocie Bru Bu Busadam
 		Cai Cir Cirwoita Clom Cmer Cnom Cnon Co Cripu Csat Ctew Cuite
 		Dei Dimir Dliwist Doat Don Duslan
@@ -197,6 +197,7 @@ low_cuitic = {
 			Busadam
 			Cei Ciryeita Cite
 			Dliyis
+			Eina
 			Grigir
 			Ilec
 			Ligana Lueli
