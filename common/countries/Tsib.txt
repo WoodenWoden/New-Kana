@@ -1,0 +1,61 @@
+graphical_culture = easterngfx
+color = { 108  108  108 }
+revolutionary_colors = { 179 179 179 }
+
+monarch_names = {
+	"Aram" #5 = 70
+	"Curce" #1 = 90
+	"Curci" #0 = 40
+	"Dama" #1 = 60
+	"Dem" #4 = 80
+	"Eram" #1 = 20
+	"Gwonen" #1 = 80
+	"Gwunen" #0 = 40
+	"Hae" #1 = 70
+	"Hai" #2 = 100
+	"Lam" #2 = 70
+	"Lebt" #2 = 80
+	"Medih" #5 = 80
+	"Midih" #4 = 70
+	"Samt" #3 = 60
+	"Tae" #3 = 70
+	"Tai" #0 = 10
+	"Nelim" #0 = -90
+	"Nilim" #0 = -20
+	"Raesalu" #0 = -40
+	"Rasalo" #0 = -40
+}
+leader_names = {
+	Aram
+	Curce Curci
+	Dama Dem
+	Eram
+	Gwonen Gwunen
+	Hae Hai
+	Lam Lebt
+	Medih Midih
+	Samt
+	Tae Tai
+}
+ship_names = {
+	Aramna
+	Curcena Curcina
+	Damana Demna
+	Eramna
+	Gwonenna Gwunenna
+	Haena Haina
+	Lamna Lebna
+	Medina Midina
+	Nelimna Nilimna
+	Raesaluna Rasalona
+	Samna
+	Taena Taina
+}
+army_names = {
+	"Cana Tsib"
+	"Cana $PROVINCE$"
+}
+fleet_names = {
+	"Stelle Tsib"
+	"Stelle $PROVINCE$"
+}

@@ -7,16 +7,13 @@ bookmark = {
 	default = yes
 	
 	country = BIS
-	country = CUO
 	country = LOM
-	country = MTE
 	country = NAY
 	country = PNE
 	country = THM
-	country = THI
 	country = WUG
 	
-	easy_country = BIS
 	easy_country = LOM
+	easy_country = NAY
 	easy_country = PNE
 }

@@ -1,3 +1,7 @@
+add_core = TSI
+owner = TSI
+controller = TSI
+
 capital = "Bracea"
 culture = nanim
 religion = nopt
@@ -9,6 +13,4 @@ hre = yes
 is_city = yes
 
 discovered_by = eastern
-discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+discovered_by = polynesian_tech

@@ -10,3 +10,9 @@ royal_marriage = {
 	start_date = 1443.1.1
 	end_date =  1445.1.1
 }
+union = {
+	first = PNE
+	second = HAC
+	start_date = 1443.1.1
+	end_date =  1445.1.1
+}

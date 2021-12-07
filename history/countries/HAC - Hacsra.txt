@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = nanim
+capital = 227 # Hactra
+fixed_capital = 227 # Hactra

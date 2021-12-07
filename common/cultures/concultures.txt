@@ -87,7 +87,7 @@ low_cuitic = {
 		Pen Penlom Pes Pirbra Pius Plan Pnoui Praset Pti
 		Ra Rainun Rancalo Rit Ros
 		Sac Sal Sasab Satem "Se Mdec" Seasao Seod Sesla Slen Snew Snol Snonta Soampiet Soc Srew Sruwt Surun
-		Tamhi Teccuo Tescti Ti Tlou Tmei Tmiet Trom Trant Trie Tsea Tuliba
+		Tamhi Teccuo Tescti Ti Tlou Tmei Tmiet Trom Trant Trie Tsea Tsib Tuliba
 		Ulhuen
 		Waert Wen Weor Wowra Wimt Wug
 	}

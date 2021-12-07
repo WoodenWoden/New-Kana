@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+mercantilism = 25
+technology_group = eastern
+religion = nopt
+primary_culture = nanim
+capital = 227 # Hactra
+
+1443.1.1 = {
+	monarch = {
+		name = "Raesalu I"
+		dynasty = "Bracea"
+		birth_date = 1424.2.3
+		female = yes
+		adm = 0
+		dip = 3
+		mil = 1
+	}
+}
