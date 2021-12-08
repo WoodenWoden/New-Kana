@@ -1,15 +1,18 @@
 fruit = {
-	base_price = 4
+	base_price = 3
 }
-
 adamantium = {
-	base_price = 11
+	base_price = 10
 }
-
 potions = {
 	base_price = 6
 }
-
 ochrium = {
 	base_price = 8
+}
+silver = {
+	base_price = 4
+}
+ursidium = {
+	base_price = 6
 }

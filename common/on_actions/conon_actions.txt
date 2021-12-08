@@ -1,0 +1,23 @@
+# country random events
+on_bi_yearly_pulse = {
+	random_list = {
+		10 = {
+			trigger = {
+				any_owned_province = {
+					trade_good = copper
+				}
+			}
+			random_owned_province = {
+				limit = {
+					trade_good = copper
+				}
+				province_event = {
+					id = magictradegood_events.2
+				}
+				country_event = {
+					id = magictradegood_events.1
+				}
+			}
+		}
+	}
+}

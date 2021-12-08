@@ -16,11 +16,10 @@ fruit = {
 		}
 	}
 }
-
 adamantium = {
 	color = { 1.00 0.30 0.05 }
 	modifier = {
-		mil_tech_cost_modifier = -0.05
+		mil_tech_cost_modifier = -0.1
 	}
 	province = {
 		accept_vassalization_reasons = 10
@@ -29,13 +28,10 @@ adamantium = {
 		factor = 0
 	}
 }
-
 potions = {
 	color = { 0.69 0.64 0.92 }
 	modifier = {
 		country_admin_power = 1
-		country_diplomatic_power = 1
-		country_military_power = 1
 	}
 	province = {
 		trade_goods_size = 0.5
@@ -44,14 +40,37 @@ potions = {
 		factor = 0
 	}
 }
-
 ochrium = {
 	color = { 0.12 0.84 0.75 }
 	modifier = {
-		mil_tech_cost_modifier = -0.05
+		ae_impact = -0.1
 	}
 	province = {
-		local_prosperity_growth = 0.1
+		prestige_decay = -0.1
+	}
+	chance = {
+		factor = 0
+	}
+}
+silver = {
+	color = { 0.95 0.95 0.95 }
+	modifier = {
+		ae_impact = -0.05
+	}
+	province = {
+		prestige_decay = -0.05
+	}
+	chance = {
+		factor = 0
+	}
+}
+ursidium = {
+	color = { 0.05 0.05 0.05 }
+	modifier = {
+		global_regiment_recruit_speed = -0.4
+	}
+	province = {
+		regiment_recruit_speed = -0.4
 	}
 	chance = {
 		factor = 0

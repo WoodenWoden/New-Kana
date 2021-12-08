@@ -1,0 +1,58 @@
+# Magic trade good flipping events
+
+namespace = magictradegood_events
+
+# Helper Event
+
+country_event = {
+	id = magictradegood_events.1
+	title = no_loc
+	desc = no_loc
+	picture = no_picture
+	
+	is_triggered_only = yes
+	hidden = yes
+	
+	option = {
+		random_list = {
+			10 = {
+				trigger = {
+					any_owned_province = {
+						trade_good = copper
+					}
+				}
+				random_owned_province = {
+					limit = {
+						trade_good = copper
+					}
+					province_event = {
+						id = magictradegood_events.1
+					}
+				}
+			}
+		}
+	}
+}
+
+# Copper > Ursidium
+
+province_event = {
+	id = magictradegood_events.2
+	title = magictradegood_events.2.t
+	desc = magictradegood_events.2.d
+	picture = TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		trade_good = copper
+	}
+	option = {
+		name = magictradegood_events.2.a
+		
+		owner = {
+			add_prestige = 20
+		}
+		change_trade_goods = ursidium
+	}
+}
