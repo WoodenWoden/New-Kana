@@ -1,21 +1,22 @@
 # country random events
 on_bi_yearly_pulse = {
+	country_event = {
+		id = magictradegood_events.1
+		days = 365
+	}
 	random_list = {
 		10 = {
 			trigger = {
 				any_owned_province = {
-					trade_good = copper
+					trade_goods = copper
 				}
 			}
 			random_owned_province = {
 				limit = {
-					trade_good = copper
+					trade_goods = copper
 				}
 				province_event = {
 					id = magictradegood_events.2
-				}
-				country_event = {
-					id = magictradegood_events.1
 				}
 			}
 		}
