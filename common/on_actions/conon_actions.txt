@@ -1,33 +1,22 @@
-# country random events
-on_bi_yearly_pulse = {
+on_startup = {
+	# Yearly Magic Events
+	
 	if = {
 		limit = {
 			NOT = {
-				has_global_flag = bi_yearly_happened
+				has_global_flag = setup
 			}
 		}
-		set_global_flag = bi_yearly_happened
-		
-		country_event = {
-			id = magictradegood_events.1
-			days = 365
-		}
-		random_list = {
-			10 = {
-				trigger = {
-					any_province = {
-						trade_goods = copper
-					}
-				}
-				random_province = {
-					limit = {
-						trade_goods = copper
-					}
-					province_event = {
-						id = magictradegood_events.2
-					}
-				}
-			}
+		set_global_flag = setup
+		8 = {
+			add_province_triggered_modifier = timer_PTM
 		}
 	}
+	
+	# Other crap
+	
+	emperor = {
+		save_global_event_target_as = Emperor
+	}
+	initialize_schools_effect = yes
 }

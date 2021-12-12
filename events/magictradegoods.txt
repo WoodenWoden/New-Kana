@@ -2,41 +2,30 @@
 
 namespace = magictradegood_events
 
-# Helper Event
+# Copper > Ursidium
 
-country_event = {
+province_event = {
 	id = magictradegood_events.1
-	title = no_loc
-	desc = no_loc
-	picture = no_picture
+	title = magictradegood_events.1.t
+	desc = magictradegood_events.1.d
+	picture = TRADE_GOODS_METALS_AND_MINING_EQUIPENT_eventPicture
 	
 	is_triggered_only = yes
-	hidden = yes
 	
+	trigger = {
+		trade_goods = copper
+	}
 	option = {
-		clr_global_flag = bi_yearly_happened
+		name = magictradegood_events.1.a
 		
-		random_list = {
-			10 = {
-				trigger = {
-					any_province = {
-						trade_goods = copper
-					}
-				}
-				random_province = {
-					limit = {
-						trade_goods = copper
-					}
-					province_event = {
-						id = magictradegood_events.2
-					}
-				}
-			}
+		owner = {
+			add_prestige = 20
 		}
+		change_trade_goods = ursidium
 	}
 }
 
-# Copper > Ursidium
+# Gold > Ochrium / Adamantium
 
 province_event = {
 	id = magictradegood_events.2
@@ -47,7 +36,7 @@ province_event = {
 	is_triggered_only = yes
 	
 	trigger = {
-		trade_goods = copper
+		trade_goods = gold
 	}
 	option = {
 		name = magictradegood_events.2.a
@@ -55,6 +44,13 @@ province_event = {
 		owner = {
 			add_prestige = 20
 		}
-		change_trade_goods = ursidium
+		random_list = {
+			10 = {
+				change_trade_goods = ochrium
+			}
+			10 = {
+				change_trade_goods = adamantium
+			}
+		}
 	}
 }

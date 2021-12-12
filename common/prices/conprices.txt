@@ -10,9 +10,6 @@ potions = {
 ochrium = {
 	base_price = 8
 }
-silver = {
-	base_price = 4
-}
 ursidium = {
 	base_price = 6
 }

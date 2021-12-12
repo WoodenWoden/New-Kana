@@ -1,0 +1,41 @@
+# Yearly Magic Event Timer
+
+timer_PTM = {
+	trigger = {
+		is_month = 7
+	}
+	on_activation = [
+		random_list = {
+			10 = {
+				trigger = {
+					any_province = {
+						trade_goods = copper
+					}
+				}
+				random_province = {
+					limit = {
+						trade_goods = copper
+					}
+					province_event = {
+						id = magictradegood_events.1
+					}
+				}
+			}
+			10 = {
+				trigger = {
+					any_province = {
+						trade_goods = gold
+					}
+				}
+				random_province = {
+					limit = {
+						trade_goods = gold
+					}
+					province_event = {
+						id = magictradegood_events.2
+					}
+				}
+			}
+		}
+	}
+}
