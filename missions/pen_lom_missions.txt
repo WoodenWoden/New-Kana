@@ -30,10 +30,9 @@ pen_lom_missions = {
 			NOT = {
 				exists = PEL
 			}
-			if = {	
-				tag = LOM
-					
+			OR = {
 				AND = {
+					tag = LOM
 					alliance_with = PNE
 					marriage_with = PNE
 						
@@ -46,14 +45,11 @@ pen_lom_missions = {
 						}
 					}
 				}
-			}
-			if = {
-				tag = PNE
-					
 				AND = {
+					tag = PNE
 					alliance_with = LOM
 					marriage_with = LOM
-						
+							
 					calc_true_if = {
 						LOM = {
 							has_opinion = {
@@ -66,13 +62,15 @@ pen_lom_missions = {
 			}
 		}
 		effect = {
-			if = {
-				tag = LOM
-				inherit = PNE
-			}
-			if = {
-				tag = PNE
-				inherit = LOM
+			OR = {
+				if = {
+					tag = LOM
+					inherit = PNE
+				}
+				if = {
+					tag = PNE
+					inherit = LOM
+				}
 			}
 			change_tag = PEL
 			swap_non_generic_missions = yes
