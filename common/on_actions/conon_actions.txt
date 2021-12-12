@@ -1,20 +1,25 @@
 # country random events
 on_bi_yearly_pulse = {
-	any_country = {
+	if = {
+		limit = {
+			NOT = {
+				has_global_flag = bi_yearly_happened
+			}
+		}
+		set_global_flag = bi_yearly_happened
+		
 		country_event = {
 			id = magictradegood_events.1
 			days = 365
 		}
-	}
-	any_country = {
 		random_list = {
 			10 = {
 				trigger = {
-					any_owned_province = {
+					any_province = {
 						trade_goods = copper
 					}
 				}
-				random_owned_province = {
+				random_province = {
 					limit = {
 						trade_goods = copper
 					}
