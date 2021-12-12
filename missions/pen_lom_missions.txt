@@ -30,38 +30,35 @@ pen_lom_missions = {
 			NOT = {
 				exists = PEL
 			}
-			custom_trigger_tooltip = {
-				tooltip = green_viper_union.tooltip
-				if = {	
-					tag = LOM
+			if = {	
+				tag = LOM
 					
-					AND = {
-						alliance_with = PNE
-						marriage_with = PNE
+				AND = {
+					alliance_with = PNE
+					marriage_with = PNE
 						
-						calc_true_if = {
-							PNE = {
-								has_opinion = {
-									who = ROOT
-									value = 150
-								}
+					calc_true_if = {
+						PNE = {
+							has_opinion = {
+								who = ROOT
+								value = 150
 							}
 						}
 					}
 				}
-				if = {	
-					tag = PNE
+			}
+			if = {
+				tag = PNE
 					
-					AND = {
-						alliance_with = LOM
-						marriage_with = LOM
+				AND = {
+					alliance_with = LOM
+					marriage_with = LOM
 						
-						calc_true_if = {
-							LOM = {
-								has_opinion = {
-									who = ROOT
-									value = 150
-								}
+					calc_true_if = {
+						LOM = {
+							has_opinion = {
+								who = ROOT
+								value = 150
 							}
 						}
 					}
